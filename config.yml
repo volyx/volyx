@@ -2,7 +2,6 @@ baseURL: "https://volyx.in"
 title: volyx
 paginate: 15
 theme: PaperMod
-publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
