@@ -1,0 +1,18 @@
+{
+    "name": "hugo-boilerplate-podcast",
+    "private": true,
+    "scripts": {
+      "start": "npm run build -- --watch & hugo server",
+      "build": "hugo build",
+      "lint": "stylelint static/css/*.css"
+    },
+    "stylelint": {
+      "extends": "stylelint-config-fresh"
+    },
+    "devDependencies": {
+      "stylelint": "^7.10.1"
+    },
+    "dependencies": {
+      "pnpm": "^9.12.1"
+    }
+  }

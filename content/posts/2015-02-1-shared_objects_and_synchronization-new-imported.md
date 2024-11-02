@@ -1,7 +1,7 @@
 ---
 author: "volyx"
 title:  "Shared Objects and Synchronization"
-date: "2015-02-1"
+date: "2015-02-01"
 # description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags:  ["old-posts"]
 categories: ["old-posts"]

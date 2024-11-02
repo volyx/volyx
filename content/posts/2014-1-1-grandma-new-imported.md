@@ -1,7 +1,7 @@
 ---
 author: "volyx"
 title:  "Бабушкин рассказ на кухне"
-date: "2014-1-1"
+date: "2014-01-01"
 # description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags:  ["old-posts"]
 categories: ["old-posts"]

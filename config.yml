@@ -38,7 +38,7 @@ params:
     hidemeta: false
     showtoc: false
     tocopen: false
-
+    social: true # https://github.com/adityatelange/hugo-PaperMod/issues/1573
     assets:
         disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
@@ -134,3 +134,8 @@ markup:
         # noClasses: true
         style: monokai
         # style: abap
+
+theme: ["PaperMod"]
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod

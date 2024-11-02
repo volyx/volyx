@@ -1,7 +1,7 @@
 ---
 author: "volyx"
 title:  "Vk Cup 2017"
-date: "2017-03-4"
+date: "2017-03-04"
 # description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags:  ["old-posts"]
 categories: ["old-posts"]

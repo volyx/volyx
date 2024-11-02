@@ -1,7 +1,7 @@
 ---
 author: "volyx"
 title:  "Javaswag выпуск 26"
-date: "2017-02-8"
+date: "2017-02-08"
 # description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags:  ["old-posts"]
 categories: ["old-posts"]
