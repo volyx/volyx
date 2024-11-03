@@ -1,7 +1,7 @@
 baseURL: "https://volyx.in"
 title: volyx
 paginate: 15
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -135,7 +135,6 @@ markup:
         style: monokai
         # style: abap
 
-theme: ["PaperMod"]
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
