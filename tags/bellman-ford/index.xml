@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bellman-Ford on volyx</title>
+    <link>https://volyx.in/tags/bellman-ford/</link>
+    <description>Recent content in Bellman-Ford on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/bellman-ford/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>743. Network Delay Time</title>
+      <link>https://volyx.in/posts/2021-03-25-network-delay-time/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-25-network-delay-time/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/network-delay-time/&#34;&gt;743. Network Delay Time&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times[i] = (ui, vi, wi), where ui is the source node, vi is the target node, and wi is the time it takes for a signal to travel from source to target.&lt;/p&gt;
+&lt;p&gt;We will send a signal from a given node k. Return the time it takes for all the n nodes to receive the signal. If it is impossible for all the n nodes to receive the signal, return -1.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Greedy on volyx</title>
+    <link>https://volyx.in/tags/greedy/</link>
+    <description>Recent content in Greedy on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/greedy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>134. Gas Station</title>
+      <link>https://volyx.in/posts/2021-07-24-gas-station/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-07-24-gas-station/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/gas-station/&#34;&gt;134. Gas Station&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n gas stations along a circular route, where the amount of gas at the ith station is gas[i].&lt;/p&gt;
+&lt;p&gt;You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from the ith station to its next (i + 1)th station. You begin the journey with an empty tank at one of the gas stations.&lt;/p&gt;
+&lt;p&gt;Given two integer arrays gas and cost, return the starting gas station&amp;rsquo;s index if you can travel around the circuit once in the clockwise direction, otherwise return -1. If there exists a solution, it is guaranteed to be unique&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>621. Task Scheduler</title>
+      <link>https://volyx.in/posts/2021-07-24-task-scheduler/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-07-24-task-scheduler/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/task-scheduler/&#34;&gt;621. Task Scheduler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a characters array tasks, representing the tasks a CPU needs to do, where each letter represents a different task. Tasks could be done in any order. Each task is done in one unit of time. For each unit of time, the CPU could complete either one task or just be idle.&lt;/p&gt;
+&lt;p&gt;However, there is a non-negative integer n that represents the cooldown period between two same tasks (the same letter in the array), that is that there must be at least n units of time between any two same tasks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

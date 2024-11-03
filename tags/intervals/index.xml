@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intervals on volyx</title>
+    <link>https://volyx.in/tags/intervals/</link>
+    <description>Recent content in Intervals on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/intervals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1348. Tweet Counts Per Frequency</title>
+      <link>https://volyx.in/posts/2021-07-10-tweet-counts-per-frequency/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-07-10-tweet-counts-per-frequency/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/tweet-counts-per-frequency/&#34;&gt;1348. Tweet Counts Per Frequency&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A social media company is trying to monitor activity on their site by analyzing the number of tweets that occur in select periods of time. These periods can be partitioned into smaller time chunks based on a certain frequency (every minute, hour, or day).&lt;/p&gt;
+&lt;p&gt;For example, the period [10, 10000] (in seconds) would be partitioned into the following time chunks with these frequencies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every minute (60-second chunks): [10,69], [70,129], [130,189], &amp;hellip;, [9970,10000]&lt;/li&gt;
+&lt;li&gt;Every hour (3600-second chunks): [10,3609], [3610,7209], [7210,10000]&lt;/li&gt;
+&lt;li&gt;Every day (86400-second chunks): [10,10000]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notice that the last chunk may be shorter than the specified frequency&amp;rsquo;s chunk size and will always end with the end time of the period (10000 in the above example).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

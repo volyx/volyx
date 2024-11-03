@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Concurrency on volyx</title>
+    <link>https://volyx.in/tags/concurrency/</link>
+    <description>Recent content in Concurrency on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1188. Design Bounded Blocking Queue</title>
+      <link>https://volyx.in/posts/2021-10-05-design-bounded-blocking-queue/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-10-05-design-bounded-blocking-queue/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;1188. Design Bounded Blocking Queue&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/design-bounded-blocking-queue/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Implement a thread-safe bounded blocking queue that has the following methods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BoundedBlockingQueue(int capacity) The constructor initializes the queue with a maximum capacity.&lt;/li&gt;
+&lt;li&gt;void enqueue(int element) Adds an element to the front of the queue. If the queue is full, the calling thread is blocked until the queue is no longer full.&lt;/li&gt;
+&lt;li&gt;int dequeue() Returns the element at the rear of the queue and removes it. If the queue is empty, the calling thread is blocked until the queue is no longer empty.&lt;/li&gt;
+&lt;li&gt;int size() Returns the number of elements currently in the queue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your implementation will be tested using multiple threads at the same time. Each thread will either be a producer thread that only makes calls to the enqueue method or a consumer thread that only makes calls to the dequeue method. The size method will be called after every test case.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tarjan on volyx</title>
+    <link>https://volyx.in/tags/tarjan/</link>
+    <description>Recent content in Tarjan on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/tarjan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1192. Critical Connections in a Network</title>
+      <link>https://volyx.in/posts/2021-04-08-critical-connections-in-a-network/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-08-critical-connections-in-a-network/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/critical-connections-in-a-network/&#34;&gt;1514. Path with Maximum Probability&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n servers numbered from 0 to n-1 connected by undirected server-to-server connections forming a network where connections[i] = [a, b] represents a connection between servers a and b. Any server can reach any other server directly or indirectly through the network.&lt;/p&gt;
+&lt;p&gt;A critical connection is a connection that, if removed, will make some server unable to reach some other server.&lt;/p&gt;
+&lt;p&gt;Return all critical connections in the network in any order.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

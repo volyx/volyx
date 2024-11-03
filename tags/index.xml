@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on volyx</title>
+    <link>https://volyx.in/tags/</link>
+    <description>Recent content in Tags on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aof</title>
+      <link>https://volyx.in/tags/aof/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/aof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Easy</title>
+      <link>https://volyx.in/tags/easy/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/easy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leetcode</title>
+      <link>https://volyx.in/tags/leetcode/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linked-List</title>
+      <link>https://volyx.in/tags/linked-list/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/linked-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medium</title>
+      <link>https://volyx.in/tags/medium/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/medium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two-Pointers</title>
+      <link>https://volyx.in/tags/two-pointers/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/two-pointers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dfs</title>
+      <link>https://volyx.in/tags/dfs/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/dfs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sliding-Window</title>
+      <link>https://volyx.in/tags/sliding-window/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/sliding-window/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stack</title>
+      <link>https://volyx.in/tags/stack/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bfs</title>
+      <link>https://volyx.in/tags/bfs/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/bfs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graph</title>
+      <link>https://volyx.in/tags/graph/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/graph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hard</title>
+      <link>https://volyx.in/tags/hard/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/hard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topological-Sort</title>
+      <link>https://volyx.in/tags/topological-sort/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/topological-sort/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backtracking</title>
+      <link>https://volyx.in/tags/backtracking/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/backtracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dp</title>
+      <link>https://volyx.in/tags/dp/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/dp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Array</title>
+      <link>https://volyx.in/tags/array/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/array/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Binary-Tree</title>
+      <link>https://volyx.in/tags/binary-tree/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/binary-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cards</title>
+      <link>https://volyx.in/tags/cards/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>https://volyx.in/tags/math/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hashmap</title>
+      <link>https://volyx.in/tags/hashmap/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/hashmap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recursive</title>
+      <link>https://volyx.in/tags/recursive/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/recursive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>String</title>
+      <link>https://volyx.in/tags/string/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/string/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prefix-Sum</title>
+      <link>https://volyx.in/tags/prefix-sum/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/prefix-sum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>https://volyx.in/tags/poem/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/poem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matrix</title>
+      <link>https://volyx.in/tags/matrix/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/matrix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree</title>
+      <link>https://volyx.in/tags/tree/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uber</title>
+      <link>https://volyx.in/tags/uber/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/uber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hierholzer Algorithm</title>
+      <link>https://volyx.in/tags/hierholzer-algorithm/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/hierholzer-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parentheses</title>
+      <link>https://volyx.in/tags/parentheses/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/parentheses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eays</title>
+      <link>https://volyx.in/tags/eays/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/eays/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BST</title>
+      <link>https://volyx.in/tags/bst/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/bst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fb</title>
+      <link>https://volyx.in/tags/fb/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/fb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Binary-Search</title>
+      <link>https://volyx.in/tags/binary-search/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/binary-search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facebook</title>
+      <link>https://volyx.in/tags/facebook/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/facebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive</title>
+      <link>https://volyx.in/tags/interactive/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/interactive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monotonic-Stack</title>
+      <link>https://volyx.in/tags/monotonic-stack/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/monotonic-stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Union-Find</title>
+      <link>https://volyx.in/tags/union-find/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/union-find/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concurrency</title>
+      <link>https://volyx.in/tags/concurrency/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/concurrency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twosum</title>
+      <link>https://volyx.in/tags/twosum/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/twosum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding-Workout</title>
+      <link>https://volyx.in/tags/coding-workout/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/coding-workout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Segment-Tree</title>
+      <link>https://volyx.in/tags/segment-tree/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/segment-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bits</title>
+      <link>https://volyx.in/tags/bits/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/bits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>https://volyx.in/tags/random/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spanning-Tree</title>
+      <link>https://volyx.in/tags/spanning-tree/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/spanning-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geometry</title>
+      <link>https://volyx.in/tags/geometry/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/geometry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sweep-Line</title>
+      <link>https://volyx.in/tags/sweep-line/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/sweep-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cycle</title>
+      <link>https://volyx.in/tags/cycle/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/cycle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greedy</title>
+      <link>https://volyx.in/tags/greedy/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/greedy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sort</title>
+      <link>https://volyx.in/tags/sort/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/sort/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hash-Table</title>
+      <link>https://volyx.in/tags/hash-table/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/hash-table/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intervals</title>
+      <link>https://volyx.in/tags/intervals/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/intervals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Backtrack</title>
+      <link>https://volyx.in/tags/backtrack/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/backtrack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bit-Manipulation</title>
+      <link>https://volyx.in/tags/bit-manipulation/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/bit-manipulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memoization</title>
+      <link>https://volyx.in/tags/memoization/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/memoization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tabulation</title>
+      <link>https://volyx.in/tags/tabulation/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/tabulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulation</title>
+      <link>https://volyx.in/tags/simulation/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Number</title>
+      <link>https://volyx.in/tags/number/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/number/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heap</title>
+      <link>https://volyx.in/tags/heap/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/heap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trie</title>
+      <link>https://volyx.in/tags/trie/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/trie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edit-Distance</title>
+      <link>https://volyx.in/tags/edit-distance/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/edit-distance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huffman-Tree</title>
+      <link>https://volyx.in/tags/huffman-tree/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/huffman-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rolling-Hash</title>
+      <link>https://volyx.in/tags/rolling-hash/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/rolling-hash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Count-Sort</title>
+      <link>https://volyx.in/tags/count-sort/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/count-sort/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rabin-Karp</title>
+      <link>https://volyx.in/tags/rabin-karp/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/rabin-karp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dijkstra</title>
+      <link>https://volyx.in/tags/dijkstra/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/dijkstra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Floyd</title>
+      <link>https://volyx.in/tags/floyd/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/floyd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scc</title>
+      <link>https://volyx.in/tags/scc/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/scc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tarjan</title>
+      <link>https://volyx.in/tags/tarjan/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/tarjan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Count-Degree</title>
+      <link>https://volyx.in/tags/count-degree/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/count-degree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Repeat</title>
+      <link>https://volyx.in/tags/repeat/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/repeat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kosaraju</title>
+      <link>https://volyx.in/tags/kosaraju/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/kosaraju/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topological</title>
+      <link>https://volyx.in/tags/topological/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/topological/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bellman-Ford</title>
+      <link>https://volyx.in/tags/bellman-ford/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/bellman-ford/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick-Sort</title>
+      <link>https://volyx.in/tags/quick-sort/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/quick-sort/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devide-and-Conquer</title>
+      <link>https://volyx.in/tags/devide-and-conquer/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/devide-and-conquer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A*</title>
+      <link>https://volyx.in/tags/a/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mock</title>
+      <link>https://volyx.in/tags/mock/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/mock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tripeat</title>
+      <link>https://volyx.in/tags/tripeat/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/tripeat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medioum</title>
+      <link>https://volyx.in/tags/medioum/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/medioum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Old-Posts</title>
+      <link>https://volyx.in/tags/old-posts/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/old-posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://volyx.in/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://volyx.in/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://volyx.in/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://volyx.in/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/tags/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

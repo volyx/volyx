@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spanning-Tree on volyx</title>
+    <link>https://volyx.in/tags/spanning-tree/</link>
+    <description>Recent content in Spanning-Tree on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/spanning-tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1168. Optimize Water Distribution in a Village</title>
+      <link>https://volyx.in/posts/2021-08-01-optimize-water-distribution-in-a-village/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-08-01-optimize-water-distribution-in-a-village/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/shuffle-string/&#34;&gt;1168. Optimize Water Distribution in a Village&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n houses in a village. We want to supply water for all the houses by building wells and laying pipes.&lt;/p&gt;
+&lt;p&gt;For each house i, we can either build a well inside it directly with cost wells[i - 1] (note the -1 due to 0-indexing), or pipe in water from another well to it. The costs to lay pipes between houses are given by the array pipes, where each pipes[j] = [house1j, house2j, costj] represents the cost to connect house1j and house2j together using a pipe. Connections are bidirectional.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Graph on volyx</title>
+    <link>https://volyx.in/tags/graph/</link>
+    <description>Recent content in Graph on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>269. Alien Dictionary</title>
+      <link>https://volyx.in/posts/2022-01-29-alien-dictionary/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-01-29-alien-dictionary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;269. Alien Dictionary&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/alien-dictionary/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is a new alien language that uses the English alphabet. However, the order among the letters is unknown to you.&lt;/p&gt;
+&lt;p&gt;You are given a list of strings words from the alien language&amp;rsquo;s dictionary, where the strings in words are sorted lexicographically by the rules of this new language.&lt;/p&gt;
+&lt;p&gt;Return a string of the unique letters in the new alien language sorted in lexicographically increasing order by the new language&amp;rsquo;s rules. If there is no solution, return &amp;ldquo;&amp;rdquo;. If there are multiple solutions, return any of them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1136. Parallel Courses</title>
+      <link>https://volyx.in/posts/2021-11-30-parallel-courses/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-11-30-parallel-courses/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;1136. Parallel Courses&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/parallel-courses/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You are given an integer n, which indicates that there are n courses labeled from 1 to n. You are also given an array relations where relations[i] = [prevCoursei, nextCoursei], representing a prerequisite relationship between course prevCoursei and course nextCoursei: course prevCoursei has to be taken before course nextCoursei.&lt;/p&gt;
+&lt;p&gt;In one semester, you can take any number of courses as long as you have taken all the prerequisites in the previous semester for the courses you are taking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>332. Reconstruct Itinerary</title>
+      <link>https://volyx.in/posts/2021-11-29-reconstruct-itinerary/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-11-29-reconstruct-itinerary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;332. Reconstruct Itinerary&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/reconstruct-itinerary/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You are given a list of airline tickets where tickets[i] = [fromi, toi] represent the departure and the arrival airports of one flight. Reconstruct the itinerary in order and return it.&lt;/p&gt;
+&lt;p&gt;All of the tickets belong to a man who departs from &amp;ldquo;JFK&amp;rdquo;, thus, the itinerary must begin with &amp;ldquo;JFK&amp;rdquo;. If there are multiple valid itineraries, you should return the itinerary that has the smallest lexical order when read as a single string.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>655. Print Binary Tree</title>
+      <link>https://volyx.in/posts/2021-11-29-print-binary-tree/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-11-29-print-binary-tree/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;655. Print Binary Tree&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/print-binary-tree/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Given the root of a binary tree, construct a 0-indexed m x n string matrix res that represents a formatted layout of the tree. The formatted layout matrix should be constructed using the following rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The height of the tree is height and the number of rows m should be equal to height + 1.&lt;/li&gt;
+&lt;li&gt;The number of columns n should be equal to 2height+1 - 1.&lt;/li&gt;
+&lt;li&gt;Place the root node in the middle of the top row (more formally, at location res[0][(n-1)/2]).&lt;/li&gt;
+&lt;li&gt;For each node that has been placed in the matrix at position res[r][c], place its left child at res[r+1][c-2height-r-1] and its right child at res[r+1][c+2height-r-1].&lt;/li&gt;
+&lt;li&gt;Continue this process until all the nodes in the tree have been placed.&lt;/li&gt;
+&lt;li&gt;Any empty cells should contain the empty string &amp;ldquo;&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Return the constructed matrix res.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1168. Optimize Water Distribution in a Village</title>
+      <link>https://volyx.in/posts/2021-08-01-optimize-water-distribution-in-a-village/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-08-01-optimize-water-distribution-in-a-village/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/shuffle-string/&#34;&gt;1168. Optimize Water Distribution in a Village&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n houses in a village. We want to supply water for all the houses by building wells and laying pipes.&lt;/p&gt;
+&lt;p&gt;For each house i, we can either build a well inside it directly with cost wells[i - 1] (note the -1 due to 0-indexing), or pipe in water from another well to it. The costs to lay pipes between houses are given by the array pipes, where each pipes[j] = [house1j, house2j, costj] represents the cost to connect house1j and house2j together using a pipe. Connections are bidirectional.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance</title>
+      <link>https://volyx.in/posts/2021-04-11-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-11-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/&#34;&gt;1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n cities numbered from 0 to n-1. Given the array edges where edges[i] = [fromi, toi, weighti] represents a bidirectional and weighted edge between cities fromi and toi, and given the integer distanceThreshold.&lt;/p&gt;
+&lt;p&gt;Return the city with the smallest number of cities that are reachable through some path and whose distance is at most distanceThreshold, If there are multiple such cities, return the city with the greatest number.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1631. Path With Minimum Effort</title>
+      <link>https://volyx.in/posts/2021-04-13-path-with-minimum-effort/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-13-path-with-minimum-effort/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/path-with-minimum-effort/&#34;&gt;1631. Path With Minimum Effort&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You are a hiker preparing for an upcoming hike. You are given heights, a 2D array of size rows x columns, where heights[row][col] represents the height of cell (row, col). You are situated in the top-left cell, (0, 0), and you hope to travel to the bottom-right cell, (rows-1, columns-1) (i.e., 0-indexed). You can move up, down, left, or right, and you wish to find a route that requires the minimum effort.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>133. Clone Graph</title>
+      <link>https://volyx.in/posts/2021-04-09-clone-graph/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-09-clone-graph/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/clone-graph/&#34;&gt;133. Clone Graph&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a reference of a node in a connected undirected graph.&lt;/p&gt;
+&lt;p&gt;Return a deep copy (clone) of the graph.&lt;/p&gt;
+&lt;p&gt;Each node in the graph contains a val (int) and a list (List[Node]) of its neighbors.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Node&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; val;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; List&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;Node&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; neighbors;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Test case format:&lt;/p&gt;
+&lt;p&gt;For simplicity sake, each node&amp;rsquo;s value is the same as the node&amp;rsquo;s index (1-indexed). For example, the first node with val = 1, the second node with val = 2, and so on. The graph is represented in the test case using an adjacency list.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>690. Employee Importance</title>
+      <link>https://volyx.in/posts/2021-04-05-employee-importance/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-05-employee-importance/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/employee-importance/&#34;&gt;690. Employee Importance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You are given a data structure of employee information, which includes the employee&amp;rsquo;s unique id, their importance value and their direct subordinates&amp;rsquo; id.&lt;/p&gt;
+&lt;p&gt;For example, employee 1 is the leader of employee 2, and employee 2 is the leader of employee 3. They have importance value 15, 10 and 5, respectively. Then employee 1 has a data structure like [1, 15, [2]], and employee 2 has [2, 10, [3]], and employee 3 has [3, 5, []]. Note that although employee 3 is also a subordinate of employee 1, the relationship is not direct.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1557. Minimum Number of Vertices to Reach All Nodes</title>
+      <link>https://volyx.in/posts/2021-04-03-minimum-number-of-vertices-to-reach-all-nodes/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-03-minimum-number-of-vertices-to-reach-all-nodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/&#34;&gt;1557. Minimum Number of Vertices to Reach All Nodes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a directed acyclic graph, with n vertices numbered from 0 to n-1, and an array edges where edges[i] = [fromi, toi] represents a directed edge from node fromi to node toi.&lt;/p&gt;
+&lt;p&gt;Find the smallest set of vertices from which all nodes in the graph are reachable. It&amp;rsquo;s guaranteed that a unique solution exists.&lt;/p&gt;
+&lt;p&gt;Notice that you can return the vertices in any order.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1254. Number of Closed Islands</title>
+      <link>https://volyx.in/posts/2021-04-01-number-of-closed-islands/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-01-number-of-closed-islands/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/number-of-closed-islands/&#34;&gt;1254. Number of Closed Islands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a 2D grid consists of 0s (land) and 1s (water).  An island is a maximal 4-directionally connected group of 0s and a closed island is an island totally (all left, top, right, bottom) surrounded by 1s.&lt;/p&gt;
+&lt;p&gt;Return the number of closed islands.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Example 1:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Input: grid = [[1,1,1,1,1,1,1,0],[1,0,0,0,0,1,1,0],[1,0,1,0,1,1,1,0],[1,0,0,0,0,1,0,1],[1,1,1,1,1,1,1,0]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Output: 2
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Explanation: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Islands in gray are closed because they are completely surrounded by water (group of 1s).
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;ex1&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/2021-04-01-ex1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>695. Max Area of Island</title>
+      <link>https://volyx.in/posts/2021-04-01-max-area-of-island/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-04-01-max-area-of-island/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/max-area-of-island/&#34;&gt;695. Max Area of Island&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a non-empty 2D array grid of 0&amp;rsquo;s and 1&amp;rsquo;s, an island is a group of 1&amp;rsquo;s (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are surrounded by water.&lt;/p&gt;
+&lt;p&gt;Find the maximum area of an island in the given 2D array. (If there is no island, the maximum area is 0.)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 7
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 8
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 9
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Example 1:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[[0,0,1,0,0,0,0,1,0,0,0,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,0,0,0,0,0,0,1,1,1,0,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,1,1,0,1,0,0,0,0,0,0,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,1,0,0,1,1,0,0,1,0,1,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,1,0,0,1,1,0,0,1,1,1,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,0,0,0,0,0,0,0,0,0,1,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,0,0,0,0,0,0,1,1,1,0,0,0],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; [0,0,0,0,0,0,0,1,1,0,0,0,0]]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Given the above grid, return 6. Note the answer is not 11, because the island must be connected 4-directionally.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1302. Deepest Leaves Sum</title>
+      <link>https://volyx.in/posts/2021-03-31-deepest-leaves-sum/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-31-deepest-leaves-sum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/deepest-leaves-sum/&#34;&gt;1302. Deepest Leaves Sum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given the root of a binary tree, return the sum of values of its deepest leaves.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Example 1:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Input: root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Output: 15
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;ex1&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/2021-03-31-ex1.png&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Example 2:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Input: root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Output: 19
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Constraints:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>797. All Paths From Source to Target</title>
+      <link>https://volyx.in/posts/2021-03-31-all-paths-from-source-to-target/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-31-all-paths-from-source-to-target/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/all-paths-from-source-to-target/&#34;&gt;797. All Paths From Source to Target&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n - 1, find all possible paths from node 0 to node n - 1, and return them in any order.&lt;/p&gt;
+&lt;p&gt;The graph is given as follows: graph[i] is a list of all nodes you can visit from node i (i.e., there is a directed edge from node i to node graph[i][j]).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>207. Course Schedule</title>
+      <link>https://volyx.in/posts/2021-03-30-course-schedule/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-30-course-schedule/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/course-schedule/&#34;&gt;207. Course Schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are a total of n courses you have to take labelled from 0 to n - 1.&lt;/p&gt;
+&lt;p&gt;Some courses may have prerequisites, for example, if prerequisites[i] = [ai, bi] this means you must take the course bi before the course ai.&lt;/p&gt;
+&lt;p&gt;Given the total number of courses numCourses and a list of the prerequisite pairs, return the ordering of courses you should take to finish all courses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>210. Course Schedule II</title>
+      <link>https://volyx.in/posts/2021-03-30-course-schedule-ii/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-30-course-schedule-ii/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/course-schedule-ii/&#34;&gt;210. Course Schedule II&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.&lt;/p&gt;
+&lt;p&gt;For example, the pair [0, 1], indicates that to take course 0 you have to first take course 1.&lt;/p&gt;
+&lt;p&gt;Return true if you can finish all courses. Otherwise, return false.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>743. Network Delay Time</title>
+      <link>https://volyx.in/posts/2021-03-25-network-delay-time/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-25-network-delay-time/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/network-delay-time/&#34;&gt;743. Network Delay Time&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times[i] = (ui, vi, wi), where ui is the source node, vi is the target node, and wi is the time it takes for a signal to travel from source to target.&lt;/p&gt;
+&lt;p&gt;We will send a signal from a given node k. Return the time it takes for all the n nodes to receive the signal. If it is impossible for all the n nodes to receive the signal, return -1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>787. Cheapest Flights Within K Stops</title>
+      <link>https://volyx.in/posts/2021-03-24-cheapest-flights-within-k-stops/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-24-cheapest-flights-within-k-stops/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/cheapest-flights-within-k-stops/&#34;&gt;787. Cheapest Flights Within K Stops&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are n cities connected by m flights. Each flight starts from city u and arrives at v with a price w.&lt;/p&gt;
+&lt;p&gt;Now given all the cities and flights, together with starting city src and the destination dst, your task is to find the cheapest price from src to dst with up to k stops. If there is no such route, output -1.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Example 1:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Input: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;n = 3, edges = [[0,1,100],[1,2,100],[0,2,500]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;src = 0, dst = 2, k = 1
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Output: 200
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Explanation: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;The graph looks like this:
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;ex1&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/2021-03-24-ex1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>997. Find the Town Judge</title>
+      <link>https://volyx.in/posts/2021-03-06-find-the-town-judge-imported/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-03-06-find-the-town-judge-imported/</guid>
+      <description>&lt;p&gt;![https://leetcode.com/problems/find-the-town-judge/]&lt;/p&gt;
+&lt;p&gt;In a town, there are N people labelled from 1 to N.  There is a rumor that one of these people is secretly the town judge.&lt;/p&gt;
+&lt;p&gt;If the town judge exists, then:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The town judge trusts nobody.&lt;/li&gt;
+&lt;li&gt;Everybody (except for the town judge) trusts the town judge.&lt;/li&gt;
+&lt;li&gt;There is exactly one person that satisfies properties 1 and 2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You are given trust, an array of pairs trust[i] = [a, b] representing that the person labelled a trusts the person labelled b.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

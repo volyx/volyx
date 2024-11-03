@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aof on volyx</title>
+    <link>https://volyx.in/tags/aof/</link>
+    <description>Recent content in Aof on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/aof/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AOC 2022. Day 8: Treetop Tree House</title>
+      <link>https://volyx.in/posts/2022-12-06-day-8-treetop-tree-house/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-06-day-8-treetop-tree-house/</guid>
+      <description>&lt;p&gt;&amp;mdash; Day 8: Treetop Tree House &amp;mdash;
+The expedition comes across a peculiar patch of tall trees all planted carefully in a grid. The Elves explain that a previous expedition planted these trees as a reforestation effort. Now, they&amp;rsquo;re curious if this would be a good location for a tree house.&lt;/p&gt;
+&lt;p&gt;First, determine whether there is enough tree cover here to keep a tree house hidden. To do this, you need to count the number of trees that are visible from outside the grid when looking directly along a row or column.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 7: No Space Left On Device</title>
+      <link>https://volyx.in/posts/2022-12-06-day-7-no-space-left-on-device/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-06-day-7-no-space-left-on-device/</guid>
+      <description>&lt;p&gt;&amp;mdash; Day 7: No Space Left On Device &amp;mdash;
+You can hear birds chirping and raindrops hitting leaves as the expedition proceeds. Occasionally, you can even hear much louder sounds in the distance; how big do the animals get out here, anyway?&lt;/p&gt;
+&lt;p&gt;The device the Elves gave you has problems with more than just its communication system. You try to run a system update:&lt;/p&gt;
+&lt;p&gt;$ system-update &amp;ndash;please &amp;ndash;pretty-please-with-sugar-on-top
+Error: No space left on device
+Perhaps you can delete some files to make space for the update?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 6: Tuning Trouble</title>
+      <link>https://volyx.in/posts/2022-12-06-day-6-tuning-trouble/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-06-day-6-tuning-trouble/</guid>
+      <description>&lt;p&gt;&amp;mdash; Day 6: Tuning Trouble &amp;mdash;
+The preparations are finally complete; you and the Elves leave camp on foot and begin to make your way toward the star fruit grove.&lt;/p&gt;
+&lt;p&gt;As you move through the dense undergrowth, one of the Elves gives you a handheld device. He says that it has many fancy features, but the most important one to set up right now is the communication system.&lt;/p&gt;
+&lt;p&gt;However, because he&amp;rsquo;s heard you have significant experience dealing with signal-based systems, he convinced the other Elves that it would be okay to give you their one malfunctioning device - surely you&amp;rsquo;ll have no problem fixing it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 5: Supply Stacks  </title>
+      <link>https://volyx.in/posts/2022-12-06-day-5-supply-stacks/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-06-day-5-supply-stacks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/2022/day/5&#34;&gt;https://adventofcode.com/2022/day/5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; Day 5: Supply Stacks &amp;mdash;
+The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked crates, but because the needed supplies are buried under many other crates, the crates need to be rearranged.&lt;/p&gt;
+&lt;p&gt;The ship has a giant cargo crane capable of moving crates between stacks. To ensure none of the crates get crushed or fall over, the crane operator will rearrange them in a series of carefully-planned steps. After the crates are rearranged, the desired crates will be at the top of each stack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 4: Camp Cleanup</title>
+      <link>https://volyx.in/posts/2022-12-05-day-4-camp-cleanup/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-05-day-4-camp-cleanup/</guid>
+      <description>&lt;p&gt;&amp;mdash; Day 4: Camp Cleanup &amp;mdash;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/2022/day/4&#34;&gt;https://adventofcode.com/2022/day/4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique ID number, and each Elf is assigned a range of section IDs.&lt;/p&gt;
+&lt;p&gt;However, as some of the Elves compare their section assignments with each other, they&amp;rsquo;ve noticed that many of the assignments overlap. To try to quickly find overlaps and reduce duplicated effort, the Elves pair up and make a big list of the section assignments for each pair (your puzzle input).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 3: Rucksack Reorganization </title>
+      <link>https://volyx.in/posts/2022-12-04-day-3-rucksack-reorganization/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-04-day-3-rucksack-reorganization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/2022/day/3&#34;&gt;# Day 3: Rucksack Reorganization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; Day 3: Rucksack Reorganization &amp;mdash;&lt;/p&gt;
+&lt;p&gt;One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn&amp;rsquo;t quite follow the packing instructions, and so a few items now need to be rearranged.&lt;/p&gt;
+&lt;p&gt;Each rucksack has two large compartments. All items of a given type are meant to go into exactly one of the two compartments. The Elf that did the packing failed to follow this rule for exactly one item type per rucksack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AOC 2022. Day 1: Calorie Counting </title>
+      <link>https://volyx.in/posts/2022-12-02-day-1-calorie-counting/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2022-12-02-day-1-calorie-counting/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Day 1: Calorie Counting &#34; loading=&#34;lazy&#34; src=&#34;https://adventofcode.com/2022/day/1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Santa&amp;rsquo;s reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.&lt;/p&gt;
+&lt;p&gt;To supply enough magical energy, the expedition needs to retrieve a minimum of fifty stars by December 25th. Although the Elves assure you that the grove has plenty of fruit, you decide to grab any fruit you see along the way, just in case.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

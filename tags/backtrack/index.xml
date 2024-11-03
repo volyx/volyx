@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Backtrack on volyx</title>
+    <link>https://volyx.in/tags/backtrack/</link>
+    <description>Recent content in Backtrack on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/backtrack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>51. N-Queens</title>
+      <link>https://volyx.in/posts/2021-07-06-n-queens/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-07-06-n-queens/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://leetcode.com/problems/n-queens/&#34;&gt;51. N-Queens&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.&lt;/p&gt;
+&lt;p&gt;Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.&lt;/p&gt;
+&lt;p&gt;Each solution contains a distinct board configuration of the n-queens&amp;rsquo; placement, where &amp;lsquo;Q&amp;rsquo; and &amp;lsquo;.&amp;rsquo; both indicate a queen and an empty space, respectively.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

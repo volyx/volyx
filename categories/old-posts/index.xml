@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Old-Posts on volyx</title>
+    <link>https://volyx.in/categories/old-posts/</link>
+    <description>Recent content in Old-Posts on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/categories/old-posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Middle of the Linked List</title>
+      <link>https://volyx.in/posts/2020-04-12-leetcode-new-imported/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2020-04-12-leetcode-new-imported/</guid>
+      <description>Middle of the Linked List</description>
+    </item>
+    <item>
+      <title>Селфи</title>
+      <link>https://volyx.in/posts/2018-02-05-selfi-new-imported/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2018-02-05-selfi-new-imported/</guid>
+      <description>Селфи</description>
+    </item>
+    <item>
+      <title>Английский по TEDx</title>
+      <link>https://volyx.in/posts/2017-07-19-tedx-talks-new-imported/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-07-19-tedx-talks-new-imported/</guid>
+      <description>Учить разговорный английский по фильмам бесполезно</description>
+    </item>
+    <item>
+      <title>Самый важный совет для начинающих программистов</title>
+      <link>https://volyx.in/posts/2017-06-24-main-advice-new-imported/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-06-24-main-advice-new-imported/</guid>
+      <description>Самый важный совет для начинающих программистов</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 32</title>
+      <link>https://volyx.in/posts/2017-06-19-javaswag-32-new-imported/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-06-19-javaswag-32-new-imported/</guid>
+      <description>В выпуске смотрим как Марк Рейнхольд рефакторит проект к джаве 9, изучаем новую утилиту jstat и разбираемся почему решения для Гугла не подходят маленьким приложениям.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 31</title>
+      <link>https://volyx.in/posts/2017-05-18-javaswag-31-new-imported/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-05-18-javaswag-31-new-imported/</guid>
+      <description>В выпуске декомпозируем микросервисы с помощью RabbitMq, читаем мнение о Jigsaw от разработчика ByteBuddy и узнаем, что думает главный архитектор джавы насчет этого.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 30</title>
+      <link>https://volyx.in/posts/2017-04-28-javaswag-30-new-imported/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-04-28-javaswag-30-new-imported/</guid>
+      <description>В выпуске загружаем CPU по полной используя ForkJoinPool, строим архитектуру минимальными средствами и разбираемся что будет с Reflection в Java 9.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 29</title>
+      <link>https://volyx.in/posts/2017-04-07-javaswag-29-new-imported/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-04-07-javaswag-29-new-imported/</guid>
+      <description>В выпуске создаем докер контейнеры на все случаи жизни, разбираемся с отличиями реактивных систем и ставим себе мавен-плагин для отображения времени выполнения.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 28</title>
+      <link>https://volyx.in/posts/2017-03-16-javaswag-28-new-imported/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-03-16-javaswag-28-new-imported/</guid>
+      <description>В выпуске запоминающие функции из Java 9, туториал по эластиксерчу и новый сборщик мусора - Эпсилон.</description>
+    </item>
+    <item>
+      <title>Выиграл горнолыжную куртку Schoefel</title>
+      <link>https://volyx.in/posts/2017-03-07-shoeffel-new-imported/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-03-07-shoeffel-new-imported/</guid>
+      <description>Выиграл горнолыжную куртку Schoefel</description>
+    </item>
+    <item>
+      <title>Vk Cup 2017</title>
+      <link>https://volyx.in/posts/2017-03-04-vkcup-2017-new-imported/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-03-04-vkcup-2017-new-imported/</guid>
+      <description>Учавствовал в Vk Cup 2017. Квалификация 1</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 27</title>
+      <link>https://volyx.in/posts/2017-02-28-javaswag-27-new-imported/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-02-28-javaswag-27-new-imported/</guid>
+      <description>В выпуске запоминающие функции из Java 9, туториал по эластиксерчу и новый сборщик мусора - Эпсилон.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 26</title>
+      <link>https://volyx.in/posts/2017-02-8-javaswag-26-new-imported/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-02-8-javaswag-26-new-imported/</guid>
+      <description>В выпуске компилируем код на лету, пишем свой сплитератор и генерируем видео для ютьюба по статьям из википедии.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 25</title>
+      <link>https://volyx.in/posts/2017-01-31-javaswag-25-new-imported/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-01-31-javaswag-25-new-imported/</guid>
+      <description>Это первый выпуск в этом году! Выпуск немного припозднился, но дальше по расписанию. Поехали! В выпуске оживляем Skip List, разбираемся с размеров пула соединений и смотрим видео про улучшение производительности строк в Java 9.</description>
+    </item>
+    <item>
+      <title>Шредиторы 102</title>
+      <link>https://volyx.in/posts/2017-01-31-shreditor-102-new-imported/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-01-31-shreditor-102-new-imported/</guid>
+      <description>&lt;p&gt;О лыжах то я не написал.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;shreditor 102&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/shreditor102.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Шридиторы очень игривые, устойчивые лыжи. Когда лыжи стоят вертикально, рядом со мной, то кажется что они высокие. Но при катании совершенно это не чувствуется. По ощущениям они короче и маневренней, чем мои предыдущие Динамики с их ростом 171.&lt;/p&gt;
+&lt;p&gt;Длина Шредиторов 177см, длинна 184 см мне была бы тоже как раз. Твинтиповские пятки и носы очень сокращают их, и лыжи становятся очень маневернными.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Сессия закрыта</title>
+      <link>https://volyx.in/posts/2017-01-27-mipt-session-new-imported/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2017-01-27-mipt-session-new-imported/</guid>
+      <description>&lt;p&gt;2017 ❄ год, привет! Делюсь новостями.&lt;/p&gt;
+&lt;p&gt;Магистратура.&lt;/p&gt;
+&lt;p&gt;Сессия закрыта, но не так как хотелось бы. Подавая в магистратуру, я планировал исправить не только свои оценки, но и подход к обучению. Ведь я уже взрослый думал я. Это в студенческие годы я списывал, сдавал экзамены на тройбаны и прогуливал пары. Теперь все будет не так. Буду пахать как раб на галерах, а в конце семестра пожинать плоды, как делают все отличники.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 24</title>
+      <link>https://volyx.in/posts/2016-12-16-javaswag-24-new-imported/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-12-16-javaswag-24-new-imported/</guid>
+      <description>Привет! В выпуске ограничиваем скорость загрузки с сервера, кэшируем данные из монги в редисе и разбираемся со статической компиляцией в Джаве 9.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 23</title>
+      <link>https://volyx.in/posts/2016-12-02-javaswag-23-new-imported/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-12-02-javaswag-23-new-imported/</guid>
+      <description>Привет! В выпуске усатый движок шаблонов, серверный рендеринг и миллиарды реквестов за 120$.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 22</title>
+      <link>https://volyx.in/posts/2016-11-24-javaswag-22-new-imported/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-11-24-javaswag-22-new-imported/</guid>
+      <description>Привет! В выпуске стримим данные из MySql с помощью Spring Data, разбираемся с производительностью JVM в докере и знакомимся с проектом Reactor от Spring.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 21</title>
+      <link>https://volyx.in/posts/2016-11-16-javaswag-21-new-imported/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-11-16-javaswag-21-new-imported/</guid>
+      <description>В выпуске gRPC, нативная компиляция Java кода и показ метрик из Спринг приложения.</description>
+    </item>
+    <item>
+      <title>Шутки от spring-mongo-data</title>
+      <link>https://volyx.in/posts/2016-11-10-jokes-from-mongo-2016-new-imported/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-11-10-jokes-from-mongo-2016-new-imported/</guid>
+      <description>&lt;p&gt;Когда заходишь на страницу со всеми историями на &lt;a href=&#34;http://wndlust.ru&#34;&gt;wndlust.ru&lt;/a&gt;, страница очень долго загружается. Происходит это только когда база данных находится на удаленном сервере, ну например на сервере в Ирландии.(а именно там датацентр и находится)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Так выглядит страница со всеми историями. Это список всех опубликованных историй на сайте.&lt;/p&gt;
+&lt;p&gt;При запуске проекта с локальной базой, а на проекте мы используем монгу, то все нормально. Когда я пробовал профилировать приложение с удаленной базой, то нашел кучу каких-то лишних запросов. Почему спринг генерировал их было не понятно.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 20</title>
+      <link>https://volyx.in/posts/2016-11-04-javaswag-20-new-imported/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-11-04-javaswag-20-new-imported/</guid>
+      <description>В выпуске тонкости экзекъютор сервисов, сохранение объектов в Редис и способы упаковки приложения в исполняемый архив.</description>
+    </item>
+    <item>
+      <title>Смена работы 2016</title>
+      <link>https://volyx.in/posts/2016-11-01-smena-raboti-2016-new-imported/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-11-01-smena-raboti-2016-new-imported/</guid>
+      <description>&lt;p&gt;Третий раз в жизни сменил работу. О рабочем цикле, размере компании и сленге.&lt;/p&gt;
+&lt;h2 id=&#34;рабочий-цикл&#34;&gt;Рабочий цикл&lt;/h2&gt;
+&lt;p&gt;Выяснил, что мой примерный рабочий цикл - 2 года. Именно столько требуется на то, чтобы начать подумывать о смене работы. Поэтапно можно разбить так:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;3 месяца - притирка. Время, когда я задаю глупые вопросы, холиварю насчет фрейворков, не с кем особо не общаюсь. На обеде все время смотрю либо в тарелку, либо в телефон. А еще - неловко шучу. Нет все не так плохо - я преувеличиваю, но общее настроение такое. Время, когда работа это работа.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 19</title>
+      <link>https://volyx.in/posts/2016-10-26-javaswag-19-new-imported/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-10-26-javaswag-19-new-imported/</guid>
+      <description>В выпуске тонкости экзекъютор сервисов, сохранение объектов в Редис и способы упаковки приложения в исполняемый архив.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 18</title>
+      <link>https://volyx.in/posts/2016-10-17-javaswag-18-new-imported/</link>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-10-17-javaswag-18-new-imported/</guid>
+      <description>&lt;p&gt;Привет!
+В выпуске коллекции примитивов Trove, автотесты для equals, hashCode и компонент Спринга с 50-ю аннотациями.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=puYPHysBN7U&#34;&gt;Трансляция конференции Joker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Запись трансляции из 2 зала.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://java-performance.info/primitive-types-collections-trove-library/&#34;&gt;Trove library: using primitive collections for performance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Библиотека коллекций для работы с примитивами. &lt;code&gt;TIntArrayList&lt;/code&gt;
+, &lt;code&gt;TIntLinkedList&lt;/code&gt;, а также реализации Set и Map. Полезно знать о них, если в приложении важно количество используемой памяти.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://grison.me/2016/09/30/monster-component-java-spring/&#34;&gt;Monster Component in Java with Spring&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;50 аннотаций над классом - думаете это нереально? Посмотрите что можно “наконфигурировать” с любимыми аннотациями из Спринга.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>МФТИ. Первый месяц</title>
+      <link>https://volyx.in/posts/2016-09-12-mipt-pervii-mesyac-new-imported/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-09-12-mipt-pervii-mesyac-new-imported/</guid>
+      <description>&lt;p&gt;Закончился первый месяц обучения в онлайн магистратуре. Сдано уже 3 недели тестов и контрольных работ. Пора делать первые выводы.&lt;/p&gt;
+&lt;p&gt;Я подсчитал что на просмотр одной недели лекций одного курса уходит по 1-2 часа. На вдумчивый просмотр, с пересматриванием тех моментов, которые не понял. Итого, если поднапрячься, то за 2 выходных можно закрыть неделю. Я делал так один раз, и это растягивается на полных два дня &amp;ldquo;ботанья&amp;rdquo;. Потому что за один день хорошо разобраться хвататет времени только в одном предмете - два уже перебор, начинает пухнуть голова. Идеальный вариант просмотреть все лекции в первой половине недели, а на выходные оставить особо сложные задания.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 17</title>
+      <link>https://volyx.in/posts/2016-09-26-javaswag-17-new-imported/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-09-26-javaswag-17-new-imported/</guid>
+      <description>В выпуске видео с JavaOne 2016, модульность в Java 9 и оптимизации JVM.</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 16</title>
+      <link>https://volyx.in/posts/2016-09-18-javaswag-16-new-imported/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-09-18-javaswag-16-new-imported/</guid>
+      <description>Привет! В выпуске архитектура Spark, перенос релиза Java 9 и Hibernate Search.</description>
+    </item>
+    <item>
+      <title>Магистратура МФТИ</title>
+      <link>https://volyx.in/posts/2016-09-12-mipt-magistratura-new-imported/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-09-12-mipt-magistratura-new-imported/</guid>
+      <description>&lt;p&gt;Не знаю как так получилось, но я поступил в магистратуру МФТИ. Да еще к тому же бесплатно - выиграл грант на 2 года обучения.&lt;/p&gt;
+&lt;p&gt;Магистратура полностью удаленная, то есть все лекции, тесты доступны онлайн и экзамены можно сдать удаленно. Для защиты от списывания используется специальная система - &lt;a href=&#34;http://examus.info/&#34;&gt;Экзамус&lt;/a&gt;. Она следит через веб-камеру за студентом и смотрит за вашим рабочим столом, чтобы вы никуда подглядывали.&lt;/p&gt;
+&lt;p&gt;Для обучения используется площадка - MiPTX. Она похожа на все остальные МООК платформы - Coursera, Stepik и Universarium.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Javaswag выпуск 15</title>
+      <link>https://volyx.in/posts/2016-09-08-javaswag-15-new-imported/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-09-08-javaswag-15-new-imported/</guid>
+      <description>Привет! В выпуске - новый @Depracted в Java 9, быстрый старт с Grails и микросервисная архитектура.</description>
+    </item>
+    <item>
+      <title>Поиска первого вхождения шаблона в текст</title>
+      <link>https://volyx.in/posts/2016-05-24-cplusplus-programming-search-string-pattern-new-imported/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-24-cplusplus-programming-search-string-pattern-new-imported/</guid>
+      <description>&lt;p&gt;Задание&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stepic.org/lesson/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-540/step/8&#34;&gt;https://stepic.org/lesson/Использование-указателей-540/step/8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Напишите функцию поиска первого вхождения шаблона в текст. В качестве первого параметра функция принимает текст (C-style строка), в которой нужно искать шаблон. В качестве второго параметра строку-шаблон (C-style строка), которую нужно найти. Функция возвращает позицию первого вхождения строки-шаблона, если он присутствует в строке (помните, что в C++ принято считать с 0), и -1, если шаблона в тексте нет.&lt;/p&gt;
+&lt;p&gt;Учтите, что пустой шаблон (строка длины 0) можно найти в любом месте текста.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Длина строки</title>
+      <link>https://volyx.in/posts/2016-05-19-cplusplus-programming-string-length-new-imported/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-19-cplusplus-programming-string-length-new-imported/</guid>
+      <description>&lt;p&gt;Задание&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stepic.org/lesson/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-540/step/6&#34;&gt;https://stepic.org/lesson/Использование-указателей-540/step/6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Очень часто для работы со строками нам нужно сначала вычислить длину строки. Для C-style строк длина нигде явно не хранится, но её можно вычислить. Напишите функцию, которая вычисляет длину C-style строки. Учтите, что завершающий нулевой символ считать не нужно.&lt;/p&gt;
+&lt;p&gt;Требования к реализации: при выполнении этого задания вы можете создавать любые вспомогательные функции. Вводить или выводить что-либо не нужно. Реализовывать функцию main не нужно.&lt;/p&gt;
+&lt;p&gt;Решение&lt;/p&gt;
+&lt;p&gt;{% highlight cpp %}
+#include &lt;!-- raw HTML omitted --&gt;
+using namespace std;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Склейка строк</title>
+      <link>https://volyx.in/posts/2016-05-19-cplusplus-programming-string-concat-new-imported/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-19-cplusplus-programming-string-concat-new-imported/</guid>
+      <description>Вам требуется реализовать функцию конкатенации (склейки) двух C-style строк. Функция конкатенации принимает на вход две C-style строки и дописывает вторую в конец первой так, чтобы первая строка представляла из себя одну C-style строку равную конкатенации двух исходных.</description>
+    </item>
+    <item>
+      <title>Михаил Идов Кофемолка</title>
+      <link>https://volyx.in/posts/2016-05-14-idov-kofemolka-new-imported/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-14-idov-kofemolka-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;desk&#34; loading=&#34;lazy&#34; src=&#34;images/%D0%BA%D0%BE%D1%84%D0%B5%D0%BC%D0%BE%D0%BB%D0%BA%D0%B0.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Сразу после прочтения книги я записываю все мысли, которые появились в голове. Затем через некоторое время расшифровываю ее.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;О книге&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;У каждой супружеской пары хотя бы раз в жизни появлялась мысль - открыть семейный бизнес. Кофемолка - роман Михаила Идова о супружеской паре, которая вместе решила открыть венское кафе. Нина и Марк живут на проценты от своего жилья, ведут интеллигентный образ жизни. Нина - арт-фотограф, Марк - пишет отзывы на книги молодых авторов, оба работают не ради денег. Они не готовят, не убирают, а занимаются сугубо умственной &amp;ldquo;творческой&amp;rdquo; деятельностью.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Стек вызовов</title>
+      <link>https://volyx.in/posts/2016-05-06-cplusplus-programming-call-stack-new-imported/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-06-cplusplus-programming-call-stack-new-imported/</guid>
+      <description>&lt;p&gt;Задание&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stepic.org/lesson/%D0%A1%D1%82%D0%B5%D0%BA-%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D0%BE%D0%B2-538/step/10&#34;&gt;https://stepic.org/lesson/Стек-вызовов-538/step/10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Вам требуется написать программу, которая &amp;ldquo;переворачивает&amp;rdquo; последовательность положительных целых чисел. На вход подается последовательность разделенных пробелами положительных целых чисел. Последовательность заканчивается нулем. Требуется вывести эту последовательность в обратном порядке.&lt;/p&gt;
+&lt;p&gt;На выводе числа нужно так же разделить пробелами. Завершающий ноль — это просто индикатор конца последовательности, он не является ее частью, т.е. выводить его не нужно.&lt;/p&gt;
+&lt;p&gt;Требования к реализации: в данном задании запрещено использовать циклы, а также дополнительную память: массивы, строки или контейнеры (даже, если вы с ними уже знакомы). Вам разрешено заводить вспомогательные функции, если они вам нужны.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Указатели и массивы</title>
+      <link>https://volyx.in/posts/2016-05-06-cplusplus-programming-pointers-and-array-new-imported/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-05-06-cplusplus-programming-pointers-and-array-new-imported/</guid>
+      <description>&lt;p&gt;Задание&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stepic.org/lesson/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B8-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-539/step/9&#34;&gt;https://stepic.org/lesson/Указатели-и-массивы-539/step/9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;В этой задаче вам нужно реализовать функцию, которая сдвигает содержимое массива влево на заданное число позиций (циклический сдвиг).&lt;/p&gt;
+&lt;p&gt;На вход функция принимает массив, его размер и величину сдвига. Например, если на вход функции подан массив: int a[] = { 1, 2, 3, 4, 5 }; и требуется циклически сдвинуть его влево на 2 позиции, то на выходе мы получим числа в таком порядке: 3, 4, 5, 1, 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Конец прекрасной эпохи</title>
+      <link>https://volyx.in/posts/2016-04-03-the-end-of-awesome-epoch-new-imported/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-04-03-the-end-of-awesome-epoch-new-imported/</guid>
+      <description>&lt;p&gt;Посмотрел фильм &amp;ldquo;Конец прекрасной эпохи&amp;rdquo; режиссёра Станислава Говорухина. Фильм снят по мотивам рассказов Сергея Довлатова из сборника Компромисс.&lt;/p&gt;
+&lt;p&gt;Фильм черно-белый, и смотрится он как немного советский, в хорошем смысле этого слова. Что побудило 80 летнего режиссёра снять черно-белый фильм в 2015 году? Я посмотрел не было ли у Говорухина еще каких-то черно-белых картин. Картина &amp;ldquo;Weekend&amp;rdquo; снята тоже в черно-белом. Видимо опробовал - понравилось.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;desc&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/the-end-of-awesome-epoch.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Я читал рассказы Довлатова - &amp;ldquo;Заповедник&amp;rdquo;, и &amp;ldquo;Встретились, поговорили&amp;rdquo;. На &amp;ldquo;Заповедник&amp;rdquo; даже ходил в театр. Все довлатовские произведения похожи на друг друга, как две капли. Скорее лучше назвать это авторским стилем. И &amp;ldquo;Конец прекрасной эпохи&amp;rdquo; не исключение. Какого то особого режиссерского прочтения я не прочувствовал.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Рендеринг asccidoc в браузере</title>
+      <link>https://volyx.in/posts/2016-03-25-render-asciidoc-in-browser-new-imported/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-25-render-asciidoc-in-browser-new-imported/</guid>
+      <description>&lt;p&gt;Давно хотелось разобраться с этим вопросом. Ведь аскидок очень удобен и гибок.&lt;/p&gt;
+&lt;p&gt;Посмотрите на его синтаксис и его &lt;a href=&#34;http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/&#34;&gt;документацию&lt;/a&gt; - это просто красиво.&lt;/p&gt;
+&lt;p&gt;К сожалению аскидок командная утилита, и каждый раз генерить html файл не очень удобно.&lt;/p&gt;
+&lt;p&gt;Есть всякие превьюхи для него:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Десктопный превью написанный на JavaFX - &lt;a href=&#34;http://www.asciidocfx.com/&#34;&gt;asciidocfx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia&#34;&gt;Расширение для хрома&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Есть расширение для &lt;a href=&#34;https://github.com/SublimeText/AsciiDoc&#34;&gt;Sublime text&lt;/a&gt; и &lt;a href=&#34;https://github.com/asciidoctor/atom-asciidoc-preview&#34;&gt;Atom&lt;/a&gt; и  &lt;a href=&#34;https://github.com/asciidoctor/brackets-asciidoc-preview&#34;&gt;brackets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Почти все они описаны &lt;a href=&#34;http://asciidoctor.org/docs/editing-asciidoc-with-live-preview/&#34;&gt;тут&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Все утилиты такого рода подразумевают &lt;a href=&#34;https://ru.wikipedia.org/wiki/WYSIWYG&#34;&gt;WYSIWYG&lt;/a&gt; редактирование, но не решают проблему - перегенерирование документов при каждом редактировании.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Переходим с клиентской генерации html к серверной</title>
+      <link>https://volyx.in/posts/2016-03-22-from-client-side-rendering-to-server-rendering-new-imported/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-22-from-client-side-rendering-to-server-rendering-new-imported/</guid>
+      <description>&lt;p&gt;Я использую ангуляр, как основной веб-фрейворк для проекта &lt;a href=&#34;http://wndlust.ru&#34;&gt;http://wndlust.ru&lt;/a&gt;. В течение года работы с ним у меня возникли небольшие проблемы. Все они хорошо известны разработчикам хоть как-то знакомым с ангуляром:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;производительность &lt;code&gt;ng-repeat&lt;/code&gt;. Когда мы кладем &lt;code&gt;ng-repeat&lt;/code&gt; в &lt;code&gt;ng-repeat&lt;/code&gt;, а затем еще в &lt;code&gt;ng-repeat&lt;/code&gt; - то &lt;code&gt;scope&lt;/code&gt; будет скопирован ровно столько же раз, все слушатели теперь будут слушать друг друга. Обновление нижнего элемента повлечет за собой N^M обновлений. N - количество элементов в ng-repeat, M - количество ng-repeat&amp;rsquo;ов&lt;/li&gt;
+&lt;li&gt;сложный синтаксис директив&lt;/li&gt;
+&lt;li&gt;ng-transclude&lt;/li&gt;
+&lt;li&gt;индексируемость&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Любой проект, хоть как-то связанный с контентом должен худо-бедно индексироваться. Хотя скорее всего, индексация не помешают любому сайту.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Все ли делаешь правильно</title>
+      <link>https://volyx.in/posts/2016-03-13-tuda-li-kopaiesh-new-imported/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-13-tuda-li-kopaiesh-new-imported/</guid>
+      <description>&lt;p&gt;Все ли делаешь правильно? Туда ли гребешь?&lt;/p&gt;
+&lt;p&gt;А как определить? Может ты и не гребец вовсе? Может весло вообще не для тебя?&lt;/p&gt;
+&lt;p&gt;Как это понять?&lt;/p&gt;
+&lt;p&gt;Прислушаться к себе? Слышно что-нибудь? А может и прислушиваться не умеешь?&lt;/p&gt;
+&lt;p&gt;Вариантов нет. Не умеешь - сиди и слушай, сиди и учись слушать себя.&lt;/p&gt;
+&lt;p&gt;Сделай что-нибудь. Слушай. Что чувствуешь? Понравилось? Не понравилось? Что вызывает? Что-то ведь должно быть слышно.&lt;/p&gt;
+&lt;p&gt;Тишина? Значит в громком месте сидишь? Уйди в тихое.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Написать функцию, переворачивающую строку без использования дополнительной памяти</title>
+      <link>https://volyx.in/posts/2016-03-10-mozgholomka-2-new-imported/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-10-mozgholomka-2-new-imported/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.interviewcake.com/question/javascript/reverse-string-in-place&#34;&gt;Задача&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мы будем менять первый и последний элемент, затем второй и второй с конца, и так далее пока не достигнем середины.&lt;/p&gt;
+&lt;p&gt;{% highlight java %}
+public String reverse(String str) {&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;char[] strChars = str.toCharArray();
+
+int startIndex = 0;
+int endIndex = strChars.length - 1;
+
+while (startIndex &amp;lt; endIndex) {
+
+    // swap characters
+    char temp = strChars[startIndex];
+    strChars[startIndex] = strChars[endIndex];
+    strChars[endIndex] = temp;
+
+    // move towards middle
+    startIndex++;
+    endIndex--;
+}
+
+return new String(strChars);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}
+{% endhighlight %}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>12x12</title>
+      <link>https://volyx.in/posts/2016-03-09-12x12-new-imported/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-09-12x12-new-imported/</guid>
+      <description>&lt;p&gt;12x12 - проект Британской высшей школы дизайна в Москве. Создатели описывают ее так:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;12x12&amp;rdquo; — это уникальное событие с оригинальным форматом общения с аудиторией.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Мы пригласили 12 самых интересных специалистов в области дизайна и дали каждому по 12 минут для того, чтобы они смогли поделиться самым важным — опытом!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ограничения&#34;&gt;Ограничения&lt;/h3&gt;
+&lt;p&gt;В произведениях Довлатова все слова в предложении начинаются на разные буквы.&lt;/p&gt;
+&lt;p&gt;Не возможно решить уравнение, не имея ограничений. Частное решение есть всегда. Непреодолимых ограничений нет.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Пьяные</title>
+      <link>https://volyx.in/posts/2016-03-07-pianyie-v-bdt-new-imported/</link>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-07-pianyie-v-bdt-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://media.teatrall.ru/photos/photo/f350c52eaa2ae293d797b573e656bb36.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Первая возникшая мысль - это то, что за всю постановку я услышал больше ругательных слов, чем за все предыдущие спектакли, помноженные на 10.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Даже слух начало резать, когда в сотый раз слышал вариацию на слово &amp;ldquo;гавно&amp;rdquo;, &amp;ldquo;гавнище&amp;rdquo;, &amp;ldquo;гавенный&amp;rdquo; и прочее. Скорее всего это вынужденная мера - попытка заменить более изощренные ругательства синонимами. Совсем ведь не убрать, иначе это будут не настоящие пьяные. Понимаю, почему сделали именно так, как сделали - не убрали, а заменили синонимами. Эмоциональный порыв-настрой передан - думаю это главное.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Имея ссылку на узел удалить его из односвязного списка</title>
+      <link>https://volyx.in/posts/2016-03-06-mozgolomka-1-new-imported/</link>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-03-06-mozgolomka-1-new-imported/</guid>
+      <description>&lt;p&gt;Начальный код такой:&lt;/p&gt;
+&lt;p&gt;{% highlight java %}&lt;/p&gt;
+&lt;p&gt;public static class LinkedListNode {&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;public String value;
+public LinkedListNode next;
+
+public LinkedListNode(String value) {
+    this.value = value;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;LinkedListNode a = new LinkedListNode(&amp;ldquo;A&amp;rdquo;);
+LinkedListNode b = new LinkedListNode(&amp;ldquo;B&amp;rdquo;);
+LinkedListNode c = new LinkedListNode(&amp;ldquo;C&amp;rdquo;);&lt;/p&gt;
+&lt;p&gt;a.next = b;
+b.next = c;&lt;/p&gt;
+&lt;p&gt;deleteNode(b);&lt;/p&gt;
+&lt;p&gt;{% endhighlight %}&lt;/p&gt;
+&lt;h2 id=&#34;забегая-вперед&#34;&gt;Забегая вперед&lt;/h2&gt;
+&lt;p&gt;Мы сможем сделать это за &lt;em&gt;O(1)&lt;/em&gt; по сложности и по &lt;em&gt;O(1)&lt;/em&gt; по памяти! Ответ будет хитрый и будет работать не на всех входных данных&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Катание по буграм</title>
+      <link>https://volyx.in/posts/2016-02-29-po-bughram-new-imported/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-02-29-po-bughram-new-imported/</guid>
+      <description>&lt;p&gt;Вернулся с Красной Поляны, скоро будет видеоотчет. Много проблем было со спусками со склонов с буграми. В этих видео рассказывается о видах спуска с таких склонов.&lt;/p&gt;
+&lt;p&gt;Считывать бугры и планировать траекторию. Заезжая на один из, взглядом находить следующий и готовиться к нему.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Для начала натренируйте повороты разного радиуса. Они должны быть круглыми, и плавно переходящими из одного в другой. Так вы будете готовы к различным траекториям на склоне.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Путь unix в SAAS сервисах</title>
+      <link>https://volyx.in/posts/2016-02-29-put-unix-v-saas-siervisakh-new-imported/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-02-29-put-unix-v-saas-siervisakh-new-imported/</guid>
+      <description>&lt;p&gt;Вы помните основной концепт операционные систем UNIX- подобных систем и утилит?
+Программа должна быть маленькой и решать строго одну задачу. Это моя интерпретация.&lt;/p&gt;
+&lt;p&gt;Вот исходная:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Пишите программы, которые делают что-то одно и делают это хорошо.&lt;/li&gt;
+&lt;li&gt;Пишите программы, которые бы работали вместе.&lt;/li&gt;
+&lt;li&gt;Пишите программы, которые бы поддерживали текстовые потоки, поскольку это универсальный интерфейс».&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SAAS  сервисы придерживаются примерно такого же пути. Они пытаются решать одну конкретную задачу. И чем меньше, тем лучше. Лучше и для самих разработчиков приложения - они могут сконцентрироваться на более мелкой проблеме, и для тех кто ищет решение своей проблемы.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Модульная секта</title>
+      <link>https://volyx.in/posts/2016-01-19-modulnaia-siekta-new-imported/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-01-19-modulnaia-siekta-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;modulnie-sistemy-super&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/modulnie-sistemy-super.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Прочел книгу «Модульные системы в графическом дизайне» Йозефа Мюллера-Брокманна. Книга посвящена одному простому элементу  —  «модульной сетке» и не пытается покрыть все аспекты дизайна. Книгу не только интересно читать, но и просто приятно держать руках. Хочется гладить ее обложку и водить рукой по страницам — так она прекрасна. Аккуратно, не спеша автор делиться пользой использования модульный сетки и заражает этой любовью читателя. Практические расчеты при построении модульной сетки, расчета кегля шрифта, расстояния между строк, размеров полей наконец-то спускает дизайн с небес до понятный математических расчетов. Здорово, когда существует формула красоты.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>теорема Байеса</title>
+      <link>https://volyx.in/posts/2016-01-09-baiies-new-imported/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2016-01-09-baiies-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;mlodinov&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/2016/01/---------2016-01-03-21-05-22.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Млодинов очень увлекательно и доходчиво рассказывает о сложных математических понятиях. Очень жаль, что эта книга не попалась мне во время курса теории вероятности в универеситете. Она сто процентов заинтересует вас в высшей математике и просто без формул объяснит сложные термины из теории вероятности.&lt;/p&gt;
+&lt;p&gt;Самой полезной оказалась глава, посвященная условной вероятности. Вся книга читается на раз, я без сомнений  готов перечитать ее еще раз.&lt;/p&gt;
+&lt;p&gt;На вероятность влияет тот факт, что событие произойдет, &lt;strong&gt;если&lt;/strong&gt; или &lt;strong&gt;при условии&lt;/strong&gt;, что произойдут другие события. В этом и заключается &lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0&#34;&gt;теорема Байеса&lt;/a&gt; или теория условной вероятности. Теорема Бернулли решает следующий вопрос: сколько получится орлов, если планируется произвести много бросков идеальной монеты, в то время как Байес исследовал первоначальную цель Бернулли — вопрос о том, насколько можно быть уверенным в том, что монета идеальна, если выпадает определенное число орлов. Байес разработал условную вероятность в попытке ответить на тот же вопрос, который увлек Бернулли: как по известному факту события вычислить вероятность того, что оно было вызвано данной причиной?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Принципы смешного</title>
+      <link>https://volyx.in/posts/2015-12-31-printsipy-smieshnogho-new-imported/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-31-printsipy-smieshnogho-new-imported/</guid>
+      <description>&lt;p&gt;Попытка объяснить словами над чем смеются люди. Сегодня разберемся с &lt;strong&gt;ассоциациями&lt;/strong&gt; и &lt;strong&gt;аналогиями&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;аналогия&#34;&gt;Аналогия&lt;/h2&gt;
+&lt;p&gt;Применяется к ситуациям, похожим на знаменитые моменты или сюжеты в художественных произведениях, известных всем окружающим.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/RyvKNJ9mOTI&#34;&gt;Какая гадость, эта ваша заливная рыба&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Выражение употребляется, если, например, вы находите эмоциональную аналогию с ситуацией в фильме. &lt;em&gt;Осторожей с такими фразочками, от них сильно попахивает нафаталином. Вы прослывете шутилой старого поколения, ведь такими шутками злоупотребляют папы, дяди, и прочие родственники и друзья их возраста.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Уроки для горнолыжников</title>
+      <link>https://volyx.in/posts/2015-12-22-uroki-dlia-ghornolyzhnikov-new-imported/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-22-uroki-dlia-ghornolyzhnikov-new-imported/</guid>
+      <description>Обзоры видео треннингов по горнолыжному спуску.</description>
+    </item>
+    <item>
+      <title>Пустой карман</title>
+      <link>https://volyx.in/posts/2015-12-21-pustoi-pocket-new-imported/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-21-pustoi-pocket-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;pocket&#34; loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/2015/11/pocket-logo-icon.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Безжалостная чистка ссылок примерно каждые две недели. Без цензуры и преукрас, только то, что добавил в закладки(&lt;a href=&#34;https://getpocket.com&#34;&gt;в покет&lt;/a&gt;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/&#34;&gt;JavaOne Sessions&lt;/a&gt;
+посмотрел несколько про Docker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://customgears.net/blog/principles-for-writing-maintainable-code/&#34;&gt;Principles for Writing Maintainable Code&lt;/a&gt; Куча акронимов, с расшифровокой&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api&#34;&gt;Best Practices for Designing a Pragmatic RESTful API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://learn.javascript.ru/webpack-screencast&#34;&gt;Webpack скринкаст&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/270059/&#34;&gt;Highload на Java: о чем нужно помнить&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jakub.marchwicki.pl/posts/2015/06/04/maven-wrapper/&#34;&gt;http://jakub.marchwicki.pl/posts/2015/06/04/maven-wrapper/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/270023/&#34;&gt;Введение в RxJava, часть первая – Вступление: Ключевые типы&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/269417/&#34;&gt;Введение в RxJava, часть первая – Вступление: Почему Rx?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/269863/&#34;&gt;Дюк, вынеси мусор! — Часть 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/269707/&#34;&gt;Дюк, вынеси мусор! — Часть 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/269621/&#34;&gt;Дюк, вынеси мусор! — Часть 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/269687/&#34;&gt;Лекции Технопарка: мастер-класс Алексея Рыбака «Про то, что я бы хотел, чтобы мне рассказали, пока я учился»&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://yakovfain.com/2015/11/02/angular-2-router-high-level-overview/&#34;&gt;Angular 2 Router: High-Level Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Isomorphic JavaScript: The Future of Web Apps &lt;a href=&#34;http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/&#34;&gt;http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m.habrahabr.ru/company/parallels/blog/269927/&#34;&gt;Чему мы научились, разрабатывая backend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://habrahabr.ru/post/112069/&#34;&gt;Фильтр Блума&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.voxxed.com/blog/2015/04/coupling-versus-autonomy-in-microservices/&#34;&gt;Coupling Versus Autonomy in Microservices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.voxxed.com/blog/2015/09/how-we-get-things-done-productivity-stacks-for-tech-startups/&#34;&gt;How We Get Things Done – Productivity Stacks For Tech Startups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Треугольник Паскаля</title>
+      <link>https://volyx.in/posts/2015-12-21-trieugholnik-paskalia-i-vieroiatnost-new-imported/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-21-trieugholnik-paskalia-i-vieroiatnost-new-imported/</guid>
+      <description>&lt;p&gt;Вы знали, что с помощью треугольника Паскаля можно рассчитать количество сочетаний?
+Да, тех самых непонятных сочетаний из теории вероятности.&lt;/p&gt;
+&lt;p&gt;Например, сколькими способами можно выбрать 3 школьников из 10.&lt;/p&gt;
+&lt;p&gt;Допустим, физрук зашел в класс, и как обычно решил забрать трёх крепеньких мальчиков.
+Всего в классе 10 мальчиков. Ему важна последовательность этих мальчиков.&lt;/p&gt;
+&lt;p&gt;Если он выберет Петрова, Иванова, Сидорова, то этот способ будет отличаться от Сидорова, Петрова, Иванова.
+Для этого нам потребуется треугольник Паскаля.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Можно играть в компьютер</title>
+      <link>https://volyx.in/posts/2015-12-13-you-can-play-computer-new-imported/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-13-you-can-play-computer-new-imported/</guid>
+      <description>&lt;p&gt;В детстве у моего брата было плохое зрение. Из-за этого мы очень часто ходили к окулисту. Мы это — мама, брат, я. Мы ходили достаточно часто, поэтому даже были знакомы с окулистом ну точнее мама знакома.&lt;/p&gt;
+&lt;p&gt;Меня всегда брали с собой и проверяли зрение и мне, — так сказать, заодно. Я всегда гордился своими здоровыми глазами. Ну представьте: сначала врач-окулист проверяет зрение брату, и со вздохами говорит цифру маме — «минус пять». Мама вздыхает, переживает, ведь старшему сыну всего десять лет, а уже такая тенденция, они долго обсуждают будущие очки, капли, гимнастику для глаз, таблетки, что нужно меньше читать, смотреть телевизор, смотреть в компьютер, ну и вообще меньше куда-либо смотреть. В процессе обсудят все и вся, и царя, и Ельцина, и власть, и цены на таблетки. И пару раз пройдутся по рецепту сначала вниз, а затем вверх. Ведь понять что-то в почерке врача почти не возможно.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Отрочество</title>
+      <link>https://volyx.in/posts/2015-12-13-otrochiestvo-new-imported/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-13-otrochiestvo-new-imported/</guid>
+      <description>&lt;p&gt;Фильм снимался в течении 12 лет с одними и теми же актёрами. Только из-за этого фильм уникален.&lt;/p&gt;
+&lt;p&gt;В нём нет никаких ярких вспышек и запоминающихся поворотов сюжетов. Просто жизнь и этим он просто невероятно затягивает. Убийственно интересно «подглядывать» за героями. Чем-то с схоже с «Шоу Трумэна», но тут то герой в реальном мире.&lt;/p&gt;
+&lt;p&gt;Взрослеющие, меняющиеся на твоих глазах герои захватывают своими простыми проблемами не хуже «Игры престолов». Нет никакой тяжелой социальщины или бытовухи. Нет ничего, кроме взросления американского мальчика.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oxxxymiron - Горгород</title>
+      <link>https://volyx.in/posts/2015-12-02-oxxxymiron-gorgorod-new-imported/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-12-02-oxxxymiron-gorgorod-new-imported/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Альбом нужно слушать строго по порядку. Сюжет вертиться вокруг персонажей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Гуру&lt;/li&gt;
+&lt;li&gt;Алиса&lt;/li&gt;
+&lt;li&gt;Марк&lt;/li&gt;
+&lt;li&gt;мэр&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Фаны так заслушиваются историей, что переживают за героями как за сериалом.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/content/images/2015/12/fcd75af088ac6ef3a5d0cd9b5b78e1ab.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Если слушать не альбом, а по одному отдельному треку, то с может показаться, что это какая-то ерунда, какой-то непонятный рэп-артхаус.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/content/images/2015/12/8ca7b182e6c2b6ef96c89b039148652a.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rap.ru/discography/1020&#34;&gt;Насладиться мнения рэп-критиков&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Мне такой сюжетный альбом очень нравится. Видимо, такие альбомы гораздо тяжелее выпускать, - этот ждали около 4 лет.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Рассказы Михаила Сегала</title>
+      <link>https://volyx.in/posts/2015-11-26-rasskazy-mikhaila-sieghala-new-imported/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-11-26-rasskazy-mikhaila-sieghala-new-imported/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Наш фильм 2012 года.
+Состоит из четырёх историй.&lt;/p&gt;
+&lt;p&gt;Предыстория заполнилась фразой:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;У вас есть романы? Сейчас романы популярны. У вас есть романы? Рассказы никому не нужны.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;и конечно Влади из Касты.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/content/images/2015/11/910482662.jpg&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;первая&#34;&gt;Первая&lt;/h1&gt;
+&lt;p&gt;Тамада представляет будущим молодожёнам детальный план их свадьбы. Пара хочет знать все очень подробно и тамада даёт им эту подробность, опускаясь в фарс.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/content/images/2015/11/28035-001.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;«А что я буду чувствовать?» — спрашивает будущая невеста. Тамада предлагает несколько вариантов эмоций, на выбор. Выбор также прост как между рисом и зерном. Рис выбран, потому что по-европейски.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Шнурки</title>
+      <link>https://volyx.in/posts/2015-11-12-trillier-zashnurovannyie-new-imported/</link>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-11-12-trillier-zashnurovannyie-new-imported/</guid>
+      <description>&lt;h2 id=&#34;шнурки-обидчики&#34;&gt;Шнурки-обидчики&lt;/h2&gt;
+&lt;p&gt;Два раза на тренировке натёр левую ногу. При топсах справа правая нога опорная, а левая выполняет пружинистую функцию. Стоит на носке и немного выгнута в сторону.&lt;/p&gt;
+&lt;p&gt;Последний раз свои кроссовки я перешнуровывал где-то год назад. Привык как-то, что всунул ногу и все, пошёл играть.&lt;/p&gt;
+&lt;p&gt;И вот сегодня, когда почувствовал, что нога снова начала затекать, решил перешнуровать их.&lt;/p&gt;
+&lt;p&gt;И все нога при изгибе перестала елозить и я заиграл лучше.&lt;/p&gt;
+&lt;p&gt;Это просто какой-то карнавал тупости и лени. Столько терпеть, натирать ногу в кровь, мучаться. А проблему можно было решить просто вытянув руку и перешнуровав шнурки.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Перископ</title>
+      <link>https://volyx.in/posts/2015-11-06-periscope-new-imported/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-11-06-periscope-new-imported/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.periscope.tv/&#34;&gt;Periscope&lt;/a&gt; - приложение, которое позволяет вести онлайн трансляцию со своего телефона.&lt;/p&gt;
+&lt;p&gt;Другие люди могут подключиться к трансляции и общаться с ведущим с помощью чата. Это похоже на всем известный чатрулет, но не совсем, ведь здесь видно только одного собеседника.&lt;/p&gt;
+&lt;p&gt;Начать трансляцию можно одним нажатием кнопки, прощай сложный в настройке youtube! Прощай запись своих вебинаров, а затем долгая загрузка их обратно в интернет. Periscope сохранит все ваши трансляции.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/per-br.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;немного-цифр&#34;&gt;Немного цифр&lt;/h2&gt;
+&lt;p&gt;Через 10 дней после запуска у Periscope был уже 1 миллион пользователей. А через месяц после запуска твитер покупает его за 100 млн долларов. Такому сногсшибательному росту можно только позавидовать. А диванные аналитики говорили, что - &amp;ldquo;интернет уже не тот&amp;hellip; взрывного роста уже не будет.. рынок охладел&amp;hellip;&amp;rdquo;.
+А вот на тебе сначала - Убер и теперь Перископ!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Диффуры и шары</title>
+      <link>https://volyx.in/posts/2015-10-26-diffury-mat-analiz-vozdushnyie-shary-new-imported/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-10-26-diffury-mat-analiz-vozdushnyie-shary-new-imported/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Н учился со мной в одном университете, даже на одном факультете.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;В то время пока я раздолбайничал, курил в туалетах, оттусивал во двориках, прогуливал пары, Н все учил и разбирался в каждом предмете, который был предоставлен ВУЗом.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Когда мне казалось, что предметы становятся все ущербней и скучнее, Н брал и разбирался в каждом из них. Находил что-то интересное в наискучнейших учебниках.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;В это же время на задней парте вздыхал я с мыслью - &amp;ldquo;Господи, опять какой-то тупой препод с какой-то туфтой&amp;rdquo; и планировал не ходить.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Гугл Мап Апи</title>
+      <link>https://volyx.in/posts/2015-10-19-google-map-api-new-imported/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-10-19-google-map-api-new-imported/</guid>
+      <description>Для проекта понадобилось отображать пользовательские маршруты на карте</description>
+    </item>
+    <item>
+      <title>Прежде чем писать код - включи мозг</title>
+      <link>https://volyx.in/posts/2015-10-19-priezhdie-chiem-pisat-kod-vkliuchi-mozgh-new-imported/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-10-19-priezhdie-chiem-pisat-kod-vkliuchi-mozgh-new-imported/</guid>
+      <description>&lt;p&gt;Порой программисты, как люди очень увлеченные, забывают основополагающие составляющие любой задачи, такие например как - &amp;ldquo;цель&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Даже если кажется, что все очевидно, попробуй составить план, набросай каркас, как можно глубже попробуй продумать и понять как это будет работать. Чтобы это сделать необходимо задуматься о том - &amp;ldquo;Для чего это нужно&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Код - это инструмент. Но периодически каждый программист заигрывается в него, ведь писать код - это то что мы любим. И тогда это превращается в рытье траншеи не зная для чего. Код - это не сама цель.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Дельфинарий</title>
+      <link>https://volyx.in/posts/2015-10-05-dielfinarii-new-imported/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-10-05-dielfinarii-new-imported/</guid>
+      <description>Если что-то делать очень долго, то обязательно получится.</description>
+    </item>
+    <item>
+      <title>Перестановочки</title>
+      <link>https://volyx.in/posts/2015-08-28-permutation-new-imported/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-08-28-permutation-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/permutation.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{% highlight java %}
+def permutation(String input){
+permutation(&amp;quot;&amp;quot;, input);
+}&lt;/p&gt;
+&lt;p&gt;def permutation(String perm, String word) {
+if (word.isEmpty()) {
+println(perm + word);&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    } else {
+        for (int i = 0; i &amp;lt; word.length(); i++) {
+            permutation(perm + word.charAt(i), word.substring(0, i) 
+                                    + word.substring(i + 1, word.length()));
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;permutation(&amp;ldquo;123&amp;rdquo;)
+{% endhighlight%}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Поделить связанный список по значению</title>
+      <link>https://volyx.in/posts/2015-08-27-partition_linked_list-new-imported/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-08-27-partition_linked_list-new-imported/</guid>
+      <description>&lt;p&gt;== Поделить связанный список по значению&lt;/p&gt;
+&lt;h1 id=&#34;задача&#34;&gt;Задача&lt;/h1&gt;
+&lt;p&gt;Дан связанный список и целое число //N// из этого списка. Поделить связный список вокруг одного узла, так чтобы узлы с меньшим значением находились до него, а узлы со значениями больше //N// после него.&lt;/p&gt;
+&lt;h1 id=&#34;решение&#34;&gt;Решение&lt;/h1&gt;
+&lt;p&gt;Решение похоже на&lt;/p&gt;
+&lt;p&gt;This is much like the partition function for quick sort. When using arrays we have to be careful not to shift elements around, because array shifts are expensive operations. But when we use a linked list we don’t have to worry about this. We could have a list that stores all values less than N and a list that stores all values greater than N and equal to N. Then we can merge the 2 lists and the N node together to get the resulting list. Here is the outline for the algorithm&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Веб-компоненты</title>
+      <link>https://volyx.in/posts/2015-08-26-web_components-new-imported/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-08-26-web_components-new-imported/</guid>
+      <description>&lt;p&gt;:icons: font&lt;/p&gt;
+&lt;p&gt;:sectanchors:&lt;/p&gt;
+&lt;p&gt;== Веб-компоненты&lt;/p&gt;
+&lt;p&gt;Непонятно как затесавшийся доклад про веб-компоненты на JEEConf&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less JS! Web components for back-end developers. (Olga Semeniuk, Belarus)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;++++&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Очень понравилась такая очевидная вещь:&lt;/p&gt;
+&lt;p&gt;++++&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Веб-компоненты состоят из следующих частей:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Templates&lt;/strong&gt;. Фрагменты HTML, которые программист собирается использовать в будущем. Содержимое тегов &lt;em&gt;&lt;!-- raw HTML omitted --&gt;&lt;/em&gt; парсится браузером, но не вызывает выполнение скриптов и загрузку дополнительных ресурсов (изображений, аудио…) пока мы не вставим его в документ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shadow DOM&lt;/strong&gt;. Shadow DOM позволяет изменять внутреннее представление HTML элементов, оставляя внешнее представление неизменным. Отличный пример — элементы &lt;em&gt;&lt;!-- raw HTML omitted --&gt;&lt;/em&gt; и &lt;!-- raw HTML omitted --&gt;*. В коде мы размещаем один тег, а браузер отображает несколько элементов (слайдеры, кнопки, окно проигрывателя). В Chrome эти и некоторые другие элементы используют Shadow DOM.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Elements&lt;/strong&gt;. Позволяют создавать и определять API собственных HTML элементов. В HTML теперь будут такие теги как &lt;!-- raw HTML omitted --&gt;* или &lt;!-- raw HTML omitted --&gt;*?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imports&lt;/strong&gt;. Импорт необходимых ресурсов для компонента - css например.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Хороший пример реализации компонентов это Polymer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Первый релиз в Maven Central</title>
+      <link>https://volyx.in/posts/2015-08-26-maven_central-new-imported/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-08-26-maven_central-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/sonatype.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Основная мысль RTFM!&lt;/p&gt;
+&lt;p&gt;Единственный верный и правильный мануал по публикации в централ - ((&lt;a href=&#34;http://central.sonatype.org/pages/apache-maven.html))&#34;&gt;http://central.sonatype.org/pages/apache-maven.html))&lt;/a&gt;, остальное все - чушь и старье. Надолго запомню, что читать нужно только официальную документацию - все остальное - не актуально. Потратил на этой ерунде долгие 2 часа, а когда нашел мануал - справился за 15 минут. Хотя нужно быть честным - и пока автоматически у меня не получилось &amp;ldquo;релизнуть&amp;rdquo;. Заходил в ((&lt;a href=&#34;https://oss.sonatype.org&#34;&gt;https://oss.sonatype.org&lt;/a&gt;)) и загружал библиотеки руками.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jquery победил. Пост из прошлого</title>
+      <link>https://volyx.in/posts/2015-08-13-jquery_win-new-imported/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-08-13-jquery_win-new-imported/</guid>
+      <description>&lt;p&gt;Попробуйте сверстать одну страничку на html, и вот увидите, что вы обязательно подключили к ней jquery.
+Никакое современное приложение «не написать» без jquery. В разумных пределах, конечно.
+Взаимодействие с формой, если вы не безумный верстатель, который делает запросы на формах с инпутами потребует динамики. Сделать что-нибудь на клик по кнопке — опять динамика. А если есть динамика то нужен javascript.&lt;/p&gt;
+&lt;p&gt;Изучение javascript часто начинают с jquery, потому что его синтаксис понятен. Не нужно знать программирования, чтобы написать какое-то простейшее действие, jquery использует css селекторы, которые понятны каждому человеку, знакомому с css и html. И так все приложение «стряпается» на jquery, а затем когда разработчик умнеет, то переписывать на javascript уже нет смысла, ведь и так работает.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Удаление символов из строки</title>
+      <link>https://volyx.in/posts/2015-06-24-remove_specified_characters-new-imported/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-06-24-remove_specified_characters-new-imported/</guid>
+      <description>Серия задачек на подумать, осознать. На этот раз будем разбираться с удалением смимволов из строки.</description>
+    </item>
+    <item>
+      <title>Groovy. Быстрая сортировка.</title>
+      <link>https://volyx.in/posts/2015-06-08-groovy_quicksort-new-imported/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-06-08-groovy_quicksort-new-imported/</guid>
+      <description>&lt;p&gt;Groovy отличный язык, если захотелось прям с ходу взять и написать какой-то алгоритм или скрипт. Советую всем программистам иногда &amp;ldquo;разминать&amp;rdquo; свои интерпрайзные мозги какими-нибудь задачками.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/quicksort.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Этот алгоритм, наверное, является самым популярным алгоритмом сортировки. Он весьма прост, быстр и сортирует задействуя минимальное количество дополнительной памяти. Для большинства задач, где требуется сортировка &amp;ldquo;Quick sort&amp;rdquo; является хорошим выбором.&lt;/p&gt;
+&lt;p&gt;{% highlight java %}
+// массив, который будем сортировать
+def a = [1,5,7,8,45,7,45,34,45,78,9]&lt;/p&gt;
+&lt;p&gt;/**&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Захвачен ли монитор потоком на данный объект</title>
+      <link>https://volyx.in/posts/2015-04-14-thread_hold_lock-new-imported/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-04-14-thread_hold_lock-new-imported/</guid>
+      <description>Выполняется код под каким-то монитором или нет?</description>
+    </item>
+    <item>
+      <title>Команда nohup</title>
+      <link>https://volyx.in/posts/2015-04-14-nohup-new-imported/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-04-14-nohup-new-imported/</guid>
+      <description>Все процессы, за исключением at и batch, завершаются, когда вы выходите из системы. Если вы хотите, чтобы после вашего выхода из системы процесс в фоновом режиме продолжал выполняться, то вам необходимо использовать команду nohup</description>
+    </item>
+    <item>
+      <title>Задача ATOI</title>
+      <link>https://volyx.in/posts/2015-04-13-question_atoi-new-imported/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-04-13-question_atoi-new-imported/</guid>
+      <description>Как сказал David Wheeler, все проблемы в Computer Science могут быть решены еще одним уровнем абстракции. Netty как раз предлагает такой уровень абстракции для клиент-серверных приложений, работающих через NIO(non-blocking input-output). Netty упрощает разработку TCP, UDP серверов, но также дает доступ к использованию низкоуровнего API, представляя свои высокоуровневые абстракции.</description>
+    </item>
+    <item>
+      <title>Shared Objects and Synchronization</title>
+      <link>https://volyx.in/posts/2015-02-1-shared_objects_and_synchronization-new-imported/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-02-1-shared_objects_and_synchronization-new-imported/</guid>
+      <description>Как сказал David Wheeler, все проблемы в Computer Science могут быть решены еще одним уровнем абстракции. Netty как раз предлагает такой уровень абстракции для клиент-серверных приложений, работающих через NIO(non-blocking input-output). Netty упрощает разработку TCP, UDP серверов, но также дает доступ к использованию низкоуровнего API, представляя свои высокоуровневые абстракции.</description>
+    </item>
+    <item>
+      <title>Сборка Nginx с модулями</title>
+      <link>https://volyx.in/posts/2015-01-26-nginx_with_modules-new-imported/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-26-nginx_with_modules-new-imported/</guid>
+      <description>by Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea. I was fortunate indeed to have worked with a fantastic team on the design and implementation of the concurrency features added to the Java platform in Java 5.0 and Java 6. Now this same team provides the best explanation yet of these new features, and of concurrency in general. Concurrency is no longer a subject for advanced users only. Every Java developer should read this book. &amp;ndash;Martin Buchholz</description>
+    </item>
+    <item>
+      <title>Обзор книги Netty in Action</title>
+      <link>https://volyx.in/posts/2015-01-22-netty_in_action-new-imported/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-22-netty_in_action-new-imported/</guid>
+      <description>В выпуске тонкости экзекъютор сервисов, сохранение объектов в Редис и способы упаковки приложения в исполняемый архив.</description>
+    </item>
+    <item>
+      <title>Maven Dependencies</title>
+      <link>https://volyx.in/posts/2015-01-12-maven_dependency-new-imported/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-12-maven_dependency-new-imported/</guid>
+      <description>123</description>
+    </item>
+    <item>
+      <title>Reviewing book Learning OpenShift</title>
+      <link>https://volyx.in/posts/2015-01-12-learning_openshift_eng-new-imported/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-12-learning_openshift_eng-new-imported/</guid>
+      <description>&lt;p&gt;image::../../img/learning_openshift.jpg[]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openshift.com/%5BOpenshift%5D&#34;&gt;https://www.openshift.com/[Openshift]&lt;/a&gt; was attractive for me in early days their beginnings. I&amp;rsquo;m really now don&amp;rsquo;t remember when my first application was deployed. Over the years I was seeing many other PaaS, but every time when I was touching their, and when unexpectedly I was needing to quick deploying of my java application - I was returning back after some time. As for me, i think, it&amp;rsquo;s most comfortable service for quick deployment and prototyping your applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Обзор книги Java Concurrency in Practice</title>
+      <link>https://volyx.in/posts/2015-01-12-concurrency_in_practice-new-imported/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-12-concurrency_in_practice-new-imported/</guid>
+      <description>by Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea. I was fortunate indeed to have worked with a fantastic team on the design and implementation of the concurrency features added to the Java platform in Java 5.0 and Java 6. Now this same team provides the best explanation yet of these new features, and of concurrency in general. Concurrency is no longer a subject for advanced users only. Every Java developer should read this book. &amp;ndash;Martin Buchholz</description>
+    </item>
+    <item>
+      <title>Обзор книги Learning OpenShift</title>
+      <link>https://volyx.in/posts/2015-01-12-learning-openshift-new-imported/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-12-learning-openshift-new-imported/</guid>
+      <description>&lt;p&gt;Мне приглянулся openshift с самого начала. Я уже не помню, когда я первый раз задеплоил туда свое первое приложение. На протяжении всех этих лет я конечно поглядывал одним глазком на конкурентов, но каждый раз, когда мне неожиданно нужен был сервис для развертывания java-приложения, я непременно вспоминал про openshift и возвращался назад. По мне, так это самый удобный сервис для быстрого деплоя, прототипированя ваших приложений.&lt;/p&gt;
+&lt;p&gt;С годами &lt;a href=&#34;https://www.openshift.com&#34;&gt;Openshift&lt;/a&gt; заматерел, обзавелся поддержкой большого количества фрэймворков и технологий. Мне естественно нравятся java штуки, который предоставляет openshift - всякие apache tomcat, jboss eap и моя любимая mongodb. Полный список технологий можно поcмотреть тут &lt;a href=&#34;https://marketplace.openshift.com/home&#34;&gt;https://marketplace.openshift.com/home&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Обзор книги Learning OpenShift</title>
+      <link>https://volyx.in/posts/2015-01-12-learning_openshift-new-imported/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2015-01-12-learning_openshift-new-imported/</guid>
+      <description>Мне очень приглянулся openshift с самого начала. Я уже не помню, когда я первый раз задеплоил туда свое первое приложение. На протяжении всех этих лет я конечно поглядывал одним глазком на конкурентов, но каждый раз, когда мне неожиданно нужен был сервис для развертывания java-приложения, я непременно вспоминал про openshift и возвращался назад. По мне, так это самый удобный сервис для быстрого деплоя, прототипированя ваших приложений.</description>
+    </item>
+    <item>
+      <title>Получение метаданых о фотографии</title>
+      <link>https://volyx.in/posts/2014-12-18-metaextractor-new-imported/</link>
+      <pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-12-18-metaextractor-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/metadata.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;В файле какого-нибудь изображения хранится очень много всякой полезной информации, например: дата съемки, размеры, всякие уровни компресии, марка и модель фотоаппарата и т д &amp;hellip; Хотелось бы как-то получить ее в java&lt;/p&gt;
+&lt;p&gt;Все это в java можно вытащить с помощью удобной библиотеки &lt;a href=&#34;https://github.com/drewnoakes/metadata-extractor&#34;&gt;metadata-extractor&lt;/a&gt;. Она умеет понимать следущие форматы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Exchangeable_image_file_format&#34;&gt;Exif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/IPTC&#34;&gt;IPTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Extensible_Metadata_Platform&#34;&gt;XMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/JPEG_File_Interchange_Format&#34;&gt;JFIF / JFXX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/ICC_profile&#34;&gt;ICC&lt;/a&gt; Profiles&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Photoshop&#34;&gt;Photoshop&lt;/a&gt; fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Portable_Network_Graphics&#34;&gt;PNG&lt;/a&gt; properties&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/BMP_file_format&#34;&gt;BMP&lt;/a&gt; properties&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Graphics_Interchange_Format&#34;&gt;GIF&lt;/a&gt; properties&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Например вот &lt;a href=&#34;http://en.wikipedia.org/wiki/Exchangeable_image_file_format&#34;&gt;Exif&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/Exif.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;А вот краткий пример на &lt;code&gt;groovy&lt;/code&gt;, который позволяет получить достаточно много информации&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Красивишная печать дерева в консоль TreeNode</title>
+      <link>https://volyx.in/posts/2014-12-02-print-tree-new-imported/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-12-02-print-tree-new-imported/</guid>
+      <description>&lt;p&gt;Cтруктура, известная у программистов как дерево, используется довольно часто. Соответственно, так же часто возникает проблема отладки кода, который работает с этой структурой. Очень удобно иметь под рукой удобный метод &amp;ldquo;toString()&amp;rdquo;, который нарисует это дерево, например в консоли в графическом виде.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/print-tree.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Печатает дерево в консоли, с помощью System.out
+{% highlight java %}&lt;/p&gt;
+&lt;p&gt;public void print(TreeNode root) {
+print(root, &amp;ldquo;&amp;rdquo;, true);
+}&lt;/p&gt;
+&lt;p&gt;private void print(TreeNode root, String prefix, boolean isTail) {
+System.out.println(prefix + (isTail ? &amp;ldquo;└── &amp;quot; : &amp;ldquo;├── &amp;ldquo;) + root.toString());
+List&lt;!-- raw HTML omitted --&gt; children = Collections.list(root.children());
+for (int i = 0; i &amp;lt; children.size() - 1; i++) {
+print(children.get(i), prefix + (isTail ? &amp;quot;    &amp;quot; : &amp;ldquo;│   &amp;ldquo;), false);
+}
+if (children.size() &amp;gt; 0) {
+print(children.get(children.size() - 1), prefix + (isTail ? &amp;quot;    &amp;quot; : &amp;ldquo;│   &amp;ldquo;), true);
+}
+}
+{% endhighlight %}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Замыкания</title>
+      <link>https://volyx.in/posts/2014-11-18-closure-new-imported/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-11-18-closure-new-imported/</guid>
+      <description>Добавить новое поведение в существующий метод легко, но часто это бывает не совсем верным решением. Когда изначально создается какой-то метод, то он обычно делает строго одно действие. Любое добавление нового кода выглядит немного подозрительно. Скорее всего, вы добавляете новый код, потому что хотите, чтобы он выполнялся в одно время с уже существующим кодом.</description>
+    </item>
+    <item>
+      <title>Изменить размер фотографий с помощью groovy и imgscalr</title>
+      <link>https://volyx.in/posts/2014-11-10-image-resize-groovy-new-imported/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-11-10-image-resize-groovy-new-imported/</guid>
+      <description>&lt;p&gt;Простой кейс: у вас лежит где-то папка с фотографиями, которые используются в блоге и жестко &amp;ldquo;закодированны&amp;rdquo;, но размер их очень большой. Загрузка страницы занимает около МИНУТЫ! Итак, ваша задача изменить параметры каждой фотки, не меняя названия и к тому же сохранить исходные фотографии. Можно конечно надолго зависнуть в интернете и потратить время на изучение и опробование разных готовых бесплатных программ, или можно быстро на коленке написать свое решение например на groovy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Класс - обёртка</title>
+      <link>https://volyx.in/posts/2014-11-05-wrap-class-new-imported/</link>
+      <pubDate>Wed, 05 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-11-05-wrap-class-new-imported/</guid>
+      <description>Напарник метода-оберки по оборачиванию, но на уровень выше - это класс - обертка. Он использует примерно такой же подход. Если нам требуется добавить новое поведение в систему, мы  можем добавить его в существующий метод, но также мы можем добавить его к чему-нибудь еще. К тому, кого тоже использует этот метод. Это что-нибудь другое и есть наш класс-обертка.</description>
+    </item>
+    <item>
+      <title>Метод - обёртка</title>
+      <link>https://volyx.in/posts/2014-10-25-wrap-method-new-imported/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-10-25-wrap-method-new-imported/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://volyx.in/images/method_wrapper.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Добавить новое поведение в существующий метод легко, но часто это бывает не совсем верным решением. Когда изначально создается какой-то метод, то он обычно делает строго одно действие. Любое добавление нового кода выглядит немного подозрительно. Скорее всего, вы добавляете новый код, потому что хотите, чтобы он выполнялся в одно время с уже существующим кодом.&lt;/p&gt;
+&lt;p&gt;Раньше, такой способ называли &amp;ldquo;временным связыванием&amp;rdquo;, код становится довольно некрасивым, если делать это слишком часто. Если группировать процедуры вместе только потому что они должны выполняться в одно и тоже время, то связь между ними весьма слаба. Позже может выясниться, что один метод не используется без другого, и с этой точки зрения они должны логически быть одним методом. Но не торопитесь склеивать их в один метод, потому что вернуть назад может быть нелегко.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ветвление классом</title>
+      <link>https://volyx.in/posts/2014-10-14-sprout-class-new-imported/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-10-14-sprout-class-new-imported/</guid>
+      <description>Ветвление методом это хорошо, но в некоторых ситуациях, например с кучей зависимоcтей, этот подход проигрывает другой технике. Рассмотрим ситуацию, когда вы должны внести изменения в класс, но нет никакой возможности создать зависимые объекты для тестирования. Получается, что не возможно вставить ответвляющийся метод и покрыть его тестами. Возможно, ваш класс просто зависит от тяжелых в создании объектов или имеет какие-то скрытые зависимости. Чтобы избавится от них, вам нужно сделать глубокий рефакторинг и отделить их, для того чтобы протестировать.</description>
+    </item>
+    <item>
+      <title>Ветвление методом</title>
+      <link>https://volyx.in/posts/2014-10-14-sprout-method-new-imported/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-10-14-sprout-method-new-imported/</guid>
+      <description>Такая ситуация наверняка была с каждым. Представьте к вам подходит ваш начальник и говорит: - Клиенты требуют от нас новую фичу - сможем мы сегодня ее добавить? Обычно все что вы можете пролепетать в ответ это:- Я не знаю&amp;hellip; смотря куда &amp;hellip;. смотря что &amp;hellip; И тут вы задумываетесь&amp;hellip; Ну, допустим, мы сможем ее быстро добавить. А как мыпротестируем, что ничего не сломали? А в слух говорите, что-то типа:- А как срочно она нужна?Вы понимаете , что  нужно будет сделать это изменение в 10 местах и это займет 5 часов, но в конечном итоге мы никак не сможем удостовериться, что код работает правильно и что на других концах приложения ничего не отвалилось!</description>
+    </item>
+    <item>
+      <title>Обзор книги Working with legacy code</title>
+      <link>https://volyx.in/posts/2014-10-05-working-with-legacy-code-new-imported/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-10-05-working-with-legacy-code-new-imported/</guid>
+      <description>Рефакторинг кода - это определенно круто! Это то, что вы должны делать каждый день для того, чтобы выжить в мире постоянно изменяющихся требований. Существуют подходы изменения кодбэйза проекта, следуя которым можно сильно упростить себе жизнь. Хотя все разработчики в принципе, интуитивно следуют им, но в слух их не произносят. Самые близкие из них часто можно встретить в книгах о рефакторинге.</description>
+    </item>
+    <item>
+      <title>Hello, Pixyll!</title>
+      <link>https://volyx.in/posts/2014-06-11-welcome-to-pixyll-new-imported/</link>
+      <pubDate>Wed, 11 Jun 2014 15:31:19 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-06-11-welcome-to-pixyll-new-imported/</guid>
+      <description>Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
+    </item>
+    <item>
+      <title>Бабушкин рассказ на кухне</title>
+      <link>https://volyx.in/posts/2014-1-1-grandma-new-imported/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2014-1-1-grandma-new-imported/</guid>
+      <description>&lt;p&gt;= Бабушкин рассказ на кухне&lt;/p&gt;
+&lt;p&gt;== Часть 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ну я ничего о них не могу сказать.  У меня составлено древо их, хоть и  небольшое.&lt;/li&gt;
+&lt;li&gt;Сейчас пойдем посмотрим&lt;/li&gt;
+&lt;li&gt;Я вам покажу. Но я их тоже никого не знаю &amp;hellip; только отца да деда, да и больше никого.
+Знаю еще откуда свекровь, это ваша бабушка из&amp;hellip;. где Некрасовы все живут. Они Некрасовы за Двиной живут. Ты был же в деревне? Ты представляешь где они есть?&lt;/li&gt;
+&lt;li&gt;Не, не был.&lt;/li&gt;
+&lt;li&gt;Ты разве никогда в деревне не был?&amp;hellip; Там же у нас Северная Двина она очень широкая река, очень большая&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Я очень хочу съездить, но я не знаю куда.&lt;/li&gt;
+&lt;li&gt;Теперь уже дом продали&amp;hellip; А там где отец жил, там вообще все развалилось, там уже никого нет, я имею ввиду, что деревня уже вся заросла травой, лесом. Очень жаль, что вы небыли. Я не знаю откуда эти Волыхины, не знаю&amp;hellip; да они веками там жили, так бог их знает&amp;hellip; Но, как раньше  говорили - было переселение с Западной Украины, не то что переселение &amp;hellip; они сами бежали оттуда, бежали в эти леса. Может кто-то был ссыльный, я не знаю. Но ссыльные они были в какие времена, времена революции, времена Сталина..(времена не Сталина, более ранние)
+У нас там в основном сидели за это все,  там где Соловецкие острова, Соловецкий монастырь, там в основном заключенные. Я бывала там один раз, но это было&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Как гость надеюсь?&lt;/li&gt;
+&lt;li&gt;Не как гость, у нас экскурсия была. Но все равно, помимо экскурсии у нас Зоя, Евгения жена,  она занималась туризмом, и она нас к группе устраивала, своих родственников. Я просто нелегально там была, но все равно мы ходили со всей группой. Но я что хочу сказать, вот казематы все эти я видела, как они там сидели. Но кто в основном сидели?
+Я же тоже не очень хорошо все это знаю. Вы наверное по истории больше знаете.
+Но до этого же был монастырь, монастырь известный, там жили в основном монахи, и женщины там были. Я к чему это веду&amp;hellip; Моя тетя, мамина старшая сестра, она девочкой повредила себе ногу, она была почти инвалид. И ее как девочку отправили в этот монастырь, ее взяли на учебу. Ее научили там шить, научили ремеслу, и она все жизнь была очень хорошей портнихой, когда вернулась домой. Какие года это?
+Если моя мама, бабушка ваша, 1892 года рождения. Так это старшая сестра, она старше лет на 30 - их же было 5 сестер, моя мама была последней.&lt;/li&gt;
+&lt;li&gt;Если это 1860 год, это значит твоя бабушка застала крепостное право?&lt;/li&gt;
+&lt;li&gt;Там крепостного права не было. Это северные люди, были свободные люди от всего. Только их считали&amp;hellip; “царёвы люди”, они только подать платили царю, никаких помещиков, никаких фабрикантов не было. Они занимались своим ремеслом. За счет леса жили, вырабатывали дегать, вырабатывали смолы. А по Северной Двине ходили баржи, пароходики ходили. И они всю эту продукцию скупали.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;== Часть 2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hierholzer Algorithm on volyx</title>
+    <link>https://volyx.in/tags/hierholzer-algorithm/</link>
+    <description>Recent content in Hierholzer Algorithm on volyx</description>
+    <image>
+      <title>volyx</title>
+      <url>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://volyx.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://volyx.in/tags/hierholzer-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>332. Reconstruct Itinerary</title>
+      <link>https://volyx.in/posts/2021-11-29-reconstruct-itinerary/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-11-29-reconstruct-itinerary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;332. Reconstruct Itinerary&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/reconstruct-itinerary/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You are given a list of airline tickets where tickets[i] = [fromi, toi] represent the departure and the arrival airports of one flight. Reconstruct the itinerary in order and return it.&lt;/p&gt;
+&lt;p&gt;All of the tickets belong to a man who departs from &amp;ldquo;JFK&amp;rdquo;, thus, the itinerary must begin with &amp;ldquo;JFK&amp;rdquo;. If there are multiple valid itineraries, you should return the itinerary that has the smallest lexical order when read as a single string.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>655. Print Binary Tree</title>
+      <link>https://volyx.in/posts/2021-11-29-print-binary-tree/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://volyx.in/posts/2021-11-29-print-binary-tree/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;655. Print Binary Tree&#34; loading=&#34;lazy&#34; src=&#34;https://leetcode.com/problems/print-binary-tree/&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Given the root of a binary tree, construct a 0-indexed m x n string matrix res that represents a formatted layout of the tree. The formatted layout matrix should be constructed using the following rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The height of the tree is height and the number of rows m should be equal to height + 1.&lt;/li&gt;
+&lt;li&gt;The number of columns n should be equal to 2height+1 - 1.&lt;/li&gt;
+&lt;li&gt;Place the root node in the middle of the top row (more formally, at location res[0][(n-1)/2]).&lt;/li&gt;
+&lt;li&gt;For each node that has been placed in the matrix at position res[r][c], place its left child at res[r+1][c-2height-r-1] and its right child at res[r+1][c+2height-r-1].&lt;/li&gt;
+&lt;li&gt;Continue this process until all the nodes in the tree have been placed.&lt;/li&gt;
+&lt;li&gt;Any empty cells should contain the empty string &amp;ldquo;&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Return the constructed matrix res.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
